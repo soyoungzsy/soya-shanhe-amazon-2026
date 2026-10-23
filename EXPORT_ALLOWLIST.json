@@ -1,0 +1,2189 @@
+{
+  "version": "0.4.0-contest.1",
+  "baselineCommit": "9309a31188f74f3df4e4f8dd6ab017dadcc600b4",
+  "files": [
+    {
+      "path": ".github/ISSUE_TEMPLATE/bug.yml",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/destination.yml",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": ".github/pull_request_template.md",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": ".gitignore",
+      "source": "original public baseline",
+      "modified": true
+    },
+    {
+      "path": ".npmrc",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": ".openai/hosting.json",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "AGENTS.md",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "CHANGELOG.md",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "CONTEST_BASELINE.json",
+      "source": "contest addition",
+      "modified": false
+    },
+    {
+      "path": "CONTEST_CHANGELOG.md",
+      "source": "contest addition",
+      "modified": false
+    },
+    {
+      "path": "CONTEST_DEMO.en.md",
+      "source": "contest addition",
+      "modified": false
+    },
+    {
+      "path": "CONTEST_README.en.md",
+      "source": "contest addition",
+      "modified": true,
+      "publicationDocumentationUpdated": true
+    },
+    {
+      "path": "CONTEST_README.md",
+      "source": "contest addition",
+      "modified": true,
+      "publicationDocumentationUpdated": true
+    },
+    {
+      "path": "CONTEST_SUBMISSION.en.md",
+      "source": "contest addition",
+      "modified": true,
+      "publicationDocumentationUpdated": true
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "LICENSE",
+      "source": "original public baseline",
+      "modified": true
+    },
+    {
+      "path": "PRIVACY.md",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "README.en.md",
+      "source": "original public baseline",
+      "modified": true,
+      "publicationDocumentationUpdated": true
+    },
+    {
+      "path": "README.md",
+      "source": "original public baseline",
+      "modified": true,
+      "publicationDocumentationUpdated": true
+    },
+    {
+      "path": "RELEASE_REVIEW.md",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "SECURITY.md",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "source": "original public baseline",
+      "modified": true
+    },
+    {
+      "path": "db/schema.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "deploy/aliyun/README.md",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "deploy/aliyun/nginx.conf.example",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "deploy/aliyun/scenicdue.service.example",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "docs/analytics.md",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "docs/ci.example.yml",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "docs/development.md",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "docs/food-image-rights.md",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "docs/images/personal-list.png",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "docs/knowledge-base.md",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "docs/knowledge-ingestion.md",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "docs/media-credits.md",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "docs/ota-access.md",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "drizzle.config.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "drizzle/0000_productive_tony_stark.sql",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "drizzle/meta/0000_snapshot.json",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "drizzle/meta/_journal.json",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "examples/my-places.sample.json",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "index.html",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "licenses/d3-array-ISC.txt",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "licenses/d3-geo-ISC.txt",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "licenses/internmap-ISC.txt",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "licenses/phosphor-react.txt",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "licenses/react-dom.txt",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "licenses/react.txt",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "licenses/tessdata-apache-2.0.txt",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "licenses/tesseract-apache-2.0.txt",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "licenses/tesseract-core-apache-2.0.txt",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "licenses/topojson-client-ISC.txt",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "package-lock.json",
+      "source": "original public baseline",
+      "modified": true
+    },
+    {
+      "path": "package.json",
+      "source": "original public baseline",
+      "modified": true
+    },
+    {
+      "path": "public/food/arrowtown-autumn-1.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/beijing-1.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/beijing-2.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/chengdu-1.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/chengdu-2.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/edinburgh-1.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/edinburgh-2.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/hangzhou-1.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/hangzhou-2.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/hongkong-1.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/hongkong-2.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/iceland-1.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/iceland-2.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/jiuzhaigou-2.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/kyoto-1.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/kyoto-2.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/luang-prabang-1.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/luang-prabang-2.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/luxor-nile-history-1.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/luxor-nile-history-2-tameya.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/luxor-nile-history-2.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/marrakech-1.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/marrakech-2.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/quanzhou-1.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/quanzhou-2.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/quanzhou-3.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/seoul-1.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/seoul-2.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/st-petersburg-1.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/food/st-petersburg-2.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/antarctica-0.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/antarctica-1.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/antarctica-2.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/arrowtown-autumn-0.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/arrowtown-autumn-1.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/arrowtown-autumn-2.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/beijing-autumn-0.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/beijing-autumn-1.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/beijing-autumn-2.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/edinburgh-0.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/edinburgh-1.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/edinburgh-2.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/harbin-0.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/harbin-1.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/harbin-2.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/iceland-0.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/iceland-1.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/iceland-2.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/jiuzhaigou-lakes-0.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/jiuzhaigou-lakes-1.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/jiuzhaigou-lakes-2.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/kyoto-autumn-0.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/kyoto-autumn-1.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/kyoto-autumn-2.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/kyoto-spring-0.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/kyoto-spring-1.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/kyoto-spring-2.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/marrakech-0.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/marrakech-1.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/marrakech-2.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/nalati-0.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/nalati-1.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/nalati-2.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/nyingchi-0.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/nyingchi-1.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/nyingchi-2.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/patagonia-0.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/patagonia-1.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/patagonia-2.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/st-petersburg-0.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/st-petersburg-1.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/moments/st-petersburg-2.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/amsterdam-spring.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/antarctica.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/arrowtown-autumn.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/atacama-desert.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/bali-volcano-culture.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/banff-lake-louise.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/barcelona-modernism.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/beijing-autumn.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/cape-town-summer.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/chengdu-teahouses.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/chiang-mai-cool-season.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/chongqing-mountain-city.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/cusco-sacred-valley.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/dali-lake-villages.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/datong-grottoes.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/dunhuang-silk-road.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/edinburgh.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/florence-renaissance.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/furano-flower-fields.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/guilin-li-river.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/gyeongju-heritage.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/hakone-autumn-onsen.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/hangzhou-west-lake.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/harbin.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/huangshan-clouds.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/iceland.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/istanbul-bosphorus.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/jingdezhen-ceramics.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/jiuzhaigou-lakes.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/kashgar-old-town.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/koyasan-autumn.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/kyoto-autumn.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/kyoto-spring.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/lauterbrunnen-valley.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/lisbon-sintra.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/lofoten-light.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/longji-rice-terraces.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/luang-prabang-river.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/luxor-nile-history.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/marrakech.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/mexico-city-culture.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/nalati.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/new-york-autumn.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/nyingchi.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/oaxaca-living-culture.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/okavango-delta.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/paris-art-walks.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/patagonia.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/qinghai-lake-summer.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/quanzhou-heritage.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/rome-ancient-city.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/samarkand-silk-road.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/sanya-winter-sea.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/seoul-autumn.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/serengeti-safari.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/seville-andalusia.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/siem-reap-angkor.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/sossusvlei-dunes.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/st-petersburg.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/suzhou-gardens.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/tasmania-summer.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/amsterdam-spring.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/antarctica.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/arrowtown-autumn.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/atacama-desert.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/bali-volcano-culture.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/banff-lake-louise.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/barcelona-modernism.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/beijing-autumn.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/cape-town-summer.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/chengdu-teahouses.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/chiang-mai-cool-season.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/chongqing-mountain-city.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/cusco-sacred-valley.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/dali-lake-villages.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/datong-grottoes.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/dunhuang-silk-road.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/edinburgh.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/florence-renaissance.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/furano-flower-fields.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/guilin-li-river.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/gyeongju-heritage.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/hakone-autumn-onsen.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/hangzhou-west-lake.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/harbin.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/huangshan-clouds.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/iceland.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/istanbul-bosphorus.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/jingdezhen-ceramics.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/jiuzhaigou-lakes.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/kashgar-old-town.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/koyasan-autumn.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/kyoto-autumn.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/kyoto-spring.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/lauterbrunnen-valley.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/lisbon-sintra.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/lofoten-light.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/longji-rice-terraces.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/luang-prabang-river.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/luxor-nile-history.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/marrakech.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/mexico-city-culture.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/nalati.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/new-york-autumn.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/nyingchi.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/oaxaca-living-culture.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/okavango-delta.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/paris-art-walks.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/patagonia.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/qinghai-lake-summer.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/quanzhou-heritage.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/rome-ancient-city.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/samarkand-silk-road.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/sanya-winter-sea.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/seoul-autumn.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/serengeti-safari.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/seville-andalusia.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/siem-reap-angkor.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/sossusvlei-dunes.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/st-petersburg.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/suzhou-gardens.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/tasmania-summer.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/tokyo-spring.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/tromso-northern-lights.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/uluru-red-centre.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/venice-lagoon.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/wadi-rum-desert.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/wuyuan-spring.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/xian-imperial-history.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/xishuangbanna-winter.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/yogyakarta-temples.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/yosemite-spring-waterfalls.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/zanzibar-island.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/thumb/zhangjiajie-pillars.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/tokyo-spring.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/tromso-northern-lights.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/uluru-red-centre.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/venice-lagoon.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/wadi-rum-desert.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/wuyuan-spring.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/xian-imperial-history.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/xishuangbanna-winter.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/yogyakarta-temples.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/yosemite-spring-waterfalls.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/zanzibar-island.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/photos/zhangjiajie-pillars.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/poi/forbidden-city-representative.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/poi/hagia-sophia-istanbul-representative.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/poi/hangzhou-grand-canal-gongchen-representative.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/poi/louvre-palace-museum-representative.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/poi/temple-of-heaven-representative.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/poi/tower-of-london-representative.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/poi/valley-of-kings-representative.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/poi/wat-xieng-thong-representative.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/points/karnak-great-hypostyle-1280.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/points/karnak-shrine-seti-ii-1280.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/points/kuang-si-falls-1280.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/points/osmanthus-species-reference.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/points/wat-xieng-thong-tree-of-life-1280.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/season/baikal-summer-shores-thumb.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/season/baikal-summer-shores.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/season/baikal-winter-ice-thumb.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/season/baikal-winter-ice.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/season/mohe-summer-long-days-thumb.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/season/mohe-summer-long-days.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/season/mohe-winter-snow-thumb.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/season/mohe-winter-snow.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/season/sayram-summer-meadows-thumb.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/season/sayram-summer-meadows.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/season/sayram-winter-ice-thumb.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/season/sayram-winter-ice.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/textures/cotton-paper-v1.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/textures/earth-clouds-2002.jpg",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "public/textures/earth-real-v5.webp",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "scripts/audit-ui-content.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "scripts/check-knowledge.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "scripts/package-offline.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "scripts/package-server.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "scripts/prepare-cartography.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "scripts/prepare-ocr-assets.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "scripts/prepare-sites-build.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "scripts/record-season-demo.mjs",
+      "source": "contest addition",
+      "modified": false
+    },
+    {
+      "path": "scripts/refresh-analytics-entities.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "scripts/refresh-heritage-index.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "scripts/season-browser.mjs",
+      "source": "contest addition",
+      "modified": false
+    },
+    {
+      "path": "server/contest-server.mjs",
+      "source": "contest addition",
+      "modified": false
+    },
+    {
+      "path": "server/node-server.mjs",
+      "source": "original public baseline",
+      "modified": true
+    },
+    {
+      "path": "server/season-mcp.mjs",
+      "source": "contest addition",
+      "modified": false
+    },
+    {
+      "path": "src/AnalyticsPrivacy.jsx",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/App.jsx",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/Collections.jsx",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/CountryExplorer.jsx",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/DiscoveryCard.jsx",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/DocumentImport.jsx",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/Encyclopedia.jsx",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/Feedback.jsx",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/Globe.jsx",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/HelpTip.jsx",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/Insights.jsx",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/Journey.jsx",
+      "source": "original public baseline",
+      "modified": true
+    },
+    {
+      "path": "src/KnowledgeLibrary.jsx",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/LoadingPage.jsx",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/MyMenu.jsx",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/PersonalPlaces.jsx",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/QuoteWorkbench.jsx",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/RouteRoot.jsx",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/ScenicCards.jsx",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/SeasonPlanner.jsx",
+      "source": "contest addition",
+      "modified": false
+    },
+    {
+      "path": "src/SourceNote.jsx",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/Timeline.jsx",
+      "source": "original public baseline",
+      "modified": true
+    },
+    {
+      "path": "src/TravelEnrichment.jsx",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/TravelGuide.jsx",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/TravelProfile.jsx",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/WishlistToast.jsx",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/analytics.css",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/analytics.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/cartography-source.json",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/cartography.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/city-labels.json",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/collections.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/continent-labels.json",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/country-labels.json",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/data.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/discoveries.json",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/document-import.css",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/document-ocr.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/document-profile.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/editorial-v10.css",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/editorial.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/encyclopedia.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/engine.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/food-catalog.json",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/food-media-v10.json",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/fx-reference.json",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/globe-math.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/globe-renderer.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/globe-software.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/globe-sound.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/guide-catalog.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/guide-scroll.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/interest-reference.json",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/journey-storage.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/knowledge-audit.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/knowledge-index-meta.json",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/knowledge.css",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/knowledge.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/live-data.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/main.jsx",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/map-selection.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/media-catalog.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/media.json",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/my-menu.css",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/navigation.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/official-excerpts-v10.json",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/official-source-catalog.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/official-sources.json",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/paper-theme.css",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/personal-places.css",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/personal-places.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/poi-catalog.json",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/poi-media.json",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/reading-catalog.json",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/revision-five.css",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/route-loading.css",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/route-loading.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/season-additions-v10.json",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/season-client.mjs",
+      "source": "contest addition",
+      "modified": false
+    },
+    {
+      "path": "src/season-evidence.mjs",
+      "source": "contest addition",
+      "modified": false
+    },
+    {
+      "path": "src/season-media-v10.json",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/season-planner.css",
+      "source": "contest addition",
+      "modified": false
+    },
+    {
+      "path": "src/season-planner.mjs",
+      "source": "contest addition",
+      "modified": false
+    },
+    {
+      "path": "src/styles.css",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/tooltip-layout.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/travel-enrichment.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/travel-guides.json",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/usability.css",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/useSeasonPlanner.js",
+      "source": "contest addition",
+      "modified": false
+    },
+    {
+      "path": "src/visa-catalog.json",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/wishlist-feedback.css",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "src/world.json",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "tests/analytics-client.test.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "tests/analytics.test.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "tests/collections-live.test.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "tests/directory-v10.test.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "tests/document-profile.test.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "tests/globe-and-guide.test.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "tests/globe-software.test.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "tests/journey-storage.test.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "tests/knowledge-audit.test.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "tests/knowledge.test.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "tests/loading-page.test.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "tests/navigation.test.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "tests/node-server.test.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "tests/personal-places.test.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "tests/reference-endpoints.test.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "tests/revision-five.test.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "tests/route-loading.test.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "tests/season-planner.test.mjs",
+      "source": "contest addition",
+      "modified": false
+    },
+    {
+      "path": "tests/sites-worker.test.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "tests/startup-bundle.test.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "tests/startup-fallback.test.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "tests/travel-engine.test.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "vite.config.js",
+      "source": "original public baseline",
+      "modified": true
+    },
+    {
+      "path": "worker/analytics-contract.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "worker/analytics-entities.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "worker/analytics.mjs",
+      "source": "original public baseline",
+      "modified": false
+    },
+    {
+      "path": "worker/index.js",
+      "source": "original public baseline",
+      "modified": false
+    }
+  ],
+  "metadataFiles": [
+    "EXPORT_ALLOWLIST.json",
+    "SNAPSHOT_MANIFEST.json",
+    "SHA256SUMS"
+  ],
+  "excluded": [
+    "node_modules",
+    "dist",
+    "public/ocr (generated by prebuild from locked dependencies)",
+    "evidence",
+    "recordings",
+    "local/browser data",
+    "all prior substitute interface files and snapshots",
+    "Git history",
+    "private workspace material"
+  ],
+  "note": "All original tracked source/content and image bytes are retained. The generic public .openai/hosting.json has only DB binding names, no account id or credentials; it is required by the original build and does not deploy anything. Publication updates are limited to the contest-facing README/draft wording; no product implementation or media changes.",
+  "publicationRepository": "https://github.com/soyoungzsy/soya-shanhe-amazon-2026"
+}

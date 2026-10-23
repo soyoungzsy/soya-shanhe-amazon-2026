@@ -1,0 +1,12 @@
+export const SEASON_STORAGE_KEY='shanhe-contest-season-plan-v1';
+export const SEASON_PROTOCOL='2025-11-25';
+export function rateSnapshot(rates={}){return Object.fromEntries(Object.entries(rates).filter(([k,v])=>/^[A-Z]{3}$/.test(k)&&Number.isFinite(v?.rateCNY)&&v.rateCNY>0).slice(0,100).map(([k,v])=>[k,{rateCNY:v.rateCNY,...(/^\d{4}-\d{2}-\d{2}$/.test(v.asOf||'')?{asOf:v.asOf}:{})}]));}
+export class SeasonClient{
+ constructor(record=()=>{}){this.record=record;this.connected=false;this.nextId=1;}
+ async rpc(method,params,notification=false){const request={jsonrpc:'2.0',...(notification?{}:{id:this.nextId++}),method,...(params?{params}:{})},controller=new AbortController(),timer=setTimeout(()=>controller.abort(),10000);let response,status;
+  try{const r=await fetch('/mcp',{method:'POST',headers:{'Content-Type':'application/json',Accept:'application/json, text/event-stream','MCP-Protocol-Version':SEASON_PROTOCOL},body:JSON.stringify(request),signal:controller.signal});status=r.status;const text=await r.text();if(text){try{response=JSON.parse(text);}catch{throw Error('工具返回不是有效 JSON，未视为成功。');}}if(!r.ok)throw Error(response?.error?.message||response?.error||'工具 HTTP '+r.status);if(response?.error)throw Error(response.error.message);this.record({method,tool:params?.name,request,httpStatus:status,response,failed:!!response?.result?.isError});return response?.result;
+  }catch(e){this.record({method,tool:params?.name,request,httpStatus:status,response,failed:true,error:e.message});if(e.name==='AbortError')throw Error('工具请求超过 10 秒；本页保留已确认计划，服务结果未确认，请恢复或重新核对。');throw e;}finally{clearTimeout(timer);}
+ }
+ async connect(){if(this.connected)return;const init=await this.rpc('initialize',{protocolVersion:SEASON_PROTOCOL,capabilities:{},clientInfo:{name:'shanhe-original-page',version:'0.4.0-contest.1'}});if(init.protocolVersion!==SEASON_PROTOCOL)throw Error('MCP 协议版本不符合要求。');await this.rpc('notifications/initialized',undefined,true);const tools=await this.rpc('tools/list');if(!['query_destinations','generate_plan','modify_plan','save_plan'].every(n=>tools.tools.some(t=>t.name===n)))throw Error('所需工具不完整。');this.connected=true;}
+ async call(name,args){await this.connect();const r=await this.rpc('tools/call',{name,arguments:args});if(r.isError)throw Error(r.content?.find(c=>c.type==='text')?.text||'工具未完成操作。');if(!r.structuredContent)throw Error('工具缺少结构化结果。');return r.structuredContent;}
+}

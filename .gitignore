@@ -1,0 +1,24 @@
+node_modules/
+dist/
+.checks/
+.release/
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+my-places*.json
+*我的地点*.json
+private/
+local-data/
+*.pem
+*.key
+!examples/my-places.sample.json
+
+# Generated OCR dependencies; never put document scans in public/ocr.
+public/ocr/
+
+# Local contest diagnostics and user snapshots are never source deliverables.
+evidence/
+.local/
+recording/

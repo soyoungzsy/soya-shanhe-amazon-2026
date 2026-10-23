@@ -1,0 +1,3039 @@
+{
+  "files": [
+    {
+      "path": ".github/ISSUE_TEMPLATE/bug.yml",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "db788c97790b66aadc86f15aae5ab6e323c5ec2952e6a21f5c5a0aa377493c2a",
+      "sizeBytes": 577
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/destination.yml",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "752b3cd2374f4ac898525b6bbfa93ad5d0b7a09c5ff083f0581368ed450b78d5",
+      "sizeBytes": 686
+    },
+    {
+      "path": ".github/pull_request_template.md",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "ed446ca6c65200c07d4a3610b492556d0793d4ae606dc6f0dca5d4d8735933d1",
+      "sizeBytes": 382
+    },
+    {
+      "path": ".gitignore",
+      "source": "original public baseline",
+      "modified": true,
+      "sha256": "12866949f7a6ec7516f6c7fd2e234797580573b7bd219785b645a0b29ebb3d8b",
+      "sizeBytes": 373
+    },
+    {
+      "path": ".npmrc",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "3a951f66e7e0f3e2dd1832473a871357c4a507b51100636b73bcf6ff0dd78b6c",
+      "sizeBytes": 37
+    },
+    {
+      "path": ".openai/hosting.json",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "2eb9080cf8ea3d826fff2d9b65e659d1e17a656360853c7a2290158f67dab55f",
+      "sizeBytes": 22
+    },
+    {
+      "path": "AGENTS.md",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "092ed73bf2ef173c240b53496ef04338f8671bde77c75c2a7a5e2417d6588f22",
+      "sizeBytes": 1440
+    },
+    {
+      "path": "CHANGELOG.md",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "b721678006aa8dab1598e628afcd43eecd2ff396e4ca6d7d85d3365a51575e50",
+      "sizeBytes": 6168
+    },
+    {
+      "path": "CONTEST_BASELINE.json",
+      "source": "contest addition",
+      "modified": false,
+      "sha256": "aa9876847c38e2eb7732d231b4780610cd946d7990480f75ae9f189d69af922e",
+      "sizeBytes": 347
+    },
+    {
+      "path": "CONTEST_CHANGELOG.md",
+      "source": "contest addition",
+      "modified": false,
+      "sha256": "4e56a3531fd5c2dd5b39acc8c230fc95a3adf8e9afec29262bb2a4aba9ba7094",
+      "sizeBytes": 2837
+    },
+    {
+      "path": "CONTEST_DEMO.en.md",
+      "source": "contest addition",
+      "modified": false,
+      "sha256": "92162689a2b45b7effc342ce01c15abb92b289bd91777a8c11e6b8443ce19e8a",
+      "sizeBytes": 3343
+    },
+    {
+      "path": "CONTEST_README.en.md",
+      "source": "contest addition",
+      "modified": true,
+      "sha256": "0e460b77f1f746a5a9afcdb7a87bdd6caeeaa2a2ccde408bd2aa5dd94784ef5b",
+      "sizeBytes": 7448,
+      "publicationDocumentationUpdated": true
+    },
+    {
+      "path": "CONTEST_README.md",
+      "source": "contest addition",
+      "modified": true,
+      "sha256": "47867bdc4ee6f0430a12c2b73fb3632ecb4ff1dcdc9963c8580f54368840733b",
+      "sizeBytes": 5427,
+      "publicationDocumentationUpdated": true
+    },
+    {
+      "path": "CONTEST_SUBMISSION.en.md",
+      "source": "contest addition",
+      "modified": true,
+      "sha256": "0bb7dd883529ba645bad50cc0903858271cd363392d9b2e7deb2b440bbebe34d",
+      "sizeBytes": 7467,
+      "publicationDocumentationUpdated": true
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "8dcf5ed63919dc7cfceb392fca38ecbcbf0332801ae0104a7d7fbc929fe1eca8",
+      "sizeBytes": 1284
+    },
+    {
+      "path": "LICENSE",
+      "source": "original public baseline",
+      "modified": true,
+      "sha256": "ade82136e441d1f758b241a6fbd5b3d69c66cd7cafe2ebe8ae014ddb20ec1990",
+      "sizeBytes": 1061
+    },
+    {
+      "path": "PRIVACY.md",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "0dcb6ebe022d0683840485ecd7f9c98509a3a7f4d10c9cfb6fe11fd8ce24a39b",
+      "sizeBytes": 6566
+    },
+    {
+      "path": "README.en.md",
+      "source": "original public baseline",
+      "modified": true,
+      "sha256": "4b3b51d1b4379297cbdc1dd3968ac4b9e705a39d378fbbd86c9e11edb10dbdc2",
+      "sizeBytes": 12261,
+      "publicationDocumentationUpdated": true
+    },
+    {
+      "path": "README.md",
+      "source": "original public baseline",
+      "modified": true,
+      "sha256": "0ba9c27297bc8da0c43675c2ebf85597bdef229b91c00a114db44cef896669ba",
+      "sizeBytes": 12236,
+      "publicationDocumentationUpdated": true
+    },
+    {
+      "path": "RELEASE_REVIEW.md",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "8bf06a6e4da4a2a2510ef6d7a46da7681f27fd9531f3c3852da53f3d687a24e0",
+      "sizeBytes": 11547
+    },
+    {
+      "path": "SECURITY.md",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "7c94c7ce46b9d7fc0641c6a365eb0cb3d0ff3d197c3f00838d3768f26222b69c",
+      "sizeBytes": 1869
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "source": "original public baseline",
+      "modified": true,
+      "sha256": "2dc72af7b0198c3e0327d9f8b74c4e6a4e3fb3d45b176952ff04abc13046d623",
+      "sizeBytes": 5569
+    },
+    {
+      "path": "db/schema.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "928aa51d0ff219cad171fb91e3d60c5bf476a6d1a28d0b169ba74f97ea78772a",
+      "sizeBytes": 1734
+    },
+    {
+      "path": "deploy/aliyun/README.md",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "d2d83c39e0c744ff397e73c2d682e55eb5bf0fc9f30096e03687f98e15ce65c5",
+      "sizeBytes": 4360
+    },
+    {
+      "path": "deploy/aliyun/nginx.conf.example",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "8fd6170b69b1e929efb1eecffa7b8194b132250229e6e1ef93cc0cc40e211c91",
+      "sizeBytes": 969
+    },
+    {
+      "path": "deploy/aliyun/scenicdue.service.example",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "99e614beffbceb2c288a540dcb1b235efcb3927a8b9fe85e56881212e7518af1",
+      "sizeBytes": 456
+    },
+    {
+      "path": "docs/analytics.md",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "db4955e237fa07b89a67b882d3b84f8e9816baae370e3897ed5807bdefe9c5ce",
+      "sizeBytes": 4438
+    },
+    {
+      "path": "docs/ci.example.yml",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "b14e48169fc425043d8d164105602b969f3376f3cabbfa3f6e72181601fed954",
+      "sizeBytes": 634
+    },
+    {
+      "path": "docs/development.md",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "56daf675555f23f87a95bf2c34c5a4bf5ab2a760edab17ebb30a98218defe993",
+      "sizeBytes": 4767
+    },
+    {
+      "path": "docs/food-image-rights.md",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "7d7f803fc364a637ab3d73944601fb1b041d467f1d3aa04792011d1e1f265ffc",
+      "sizeBytes": 14754
+    },
+    {
+      "path": "docs/images/personal-list.png",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "cbcc5c703ce7e643d7fac4e0bec03bbd290ad43637b0e9b0d19f4580dfdc1831",
+      "sizeBytes": 48393
+    },
+    {
+      "path": "docs/knowledge-base.md",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "baff24d27930a158d8edbf51202998c5052ba9489a7e5fd73225f06993ce0ffc",
+      "sizeBytes": 7346
+    },
+    {
+      "path": "docs/knowledge-ingestion.md",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "f8f58090287ed002f6bea2ece58611b337c9a3f981d11f33a88314cc063dd4e1",
+      "sizeBytes": 4674
+    },
+    {
+      "path": "docs/media-credits.md",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "eaae2d1ca68eb1c9a78b8d54ccac4048330102104ffa244f27389cc2dcdc6e08",
+      "sizeBytes": 28991
+    },
+    {
+      "path": "docs/ota-access.md",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "583d808f155e8b82d230429c7d1cd4f89f5cea3f4021aea817c82716008ed145",
+      "sizeBytes": 16866
+    },
+    {
+      "path": "drizzle.config.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "93d07deeeacd10cf4802b9361508f3dce808e9a670398f5f93f88cb82bcbd4b2",
+      "sizeBytes": 132
+    },
+    {
+      "path": "drizzle/0000_productive_tony_stark.sql",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "046a2a480f343b7d808a43ab82ff2a311af8037a5d53604d8e0bf2de12d6ff22",
+      "sizeBytes": 1582
+    },
+    {
+      "path": "drizzle/meta/0000_snapshot.json",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "81f0dae84afaff93cd8f2905381be907f1ab753c9153984132a9b111fa4c2df4",
+      "sizeBytes": 8011
+    },
+    {
+      "path": "drizzle/meta/_journal.json",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "3e104a813ba03b08165b934c637763b8a74743dbbee5db777bbf06ff059e4d2f",
+      "sizeBytes": 211
+    },
+    {
+      "path": "examples/my-places.sample.json",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "e9f874365b4c82911742ca416c2e59c6de8cba46fa75e71710bba3b1181db5a8",
+      "sizeBytes": 427
+    },
+    {
+      "path": "index.html",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "29c2e0e61ce0eaebb810cfd03bb6b0f1777517a0385a41b898cbbcf1aed22b61",
+      "sizeBytes": 2614
+    },
+    {
+      "path": "licenses/d3-array-ISC.txt",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "3e6849627f74ff73c257a3ae1efb574015d94fc1035c05ec3c15805165efcbc4",
+      "sizeBytes": 731
+    },
+    {
+      "path": "licenses/d3-geo-ISC.txt",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "3e3edc1224eec9c39cd26491a21304a62883c1e5b6a65c5283ccc7a6cc94baee",
+      "sizeBytes": 1857
+    },
+    {
+      "path": "licenses/internmap-ISC.txt",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "9ea8903938dab5f12c4572d60725069bec2d1b0dc3bcc210b09bae946a5ebb1f",
+      "sizeBytes": 726
+    },
+    {
+      "path": "licenses/phosphor-react.txt",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "6918b72504641180600cbbd4a86b0dfa9dfccf788775694325b71b9a029f6eb4",
+      "sizeBytes": 1071
+    },
+    {
+      "path": "licenses/react-dom.txt",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+      "sizeBytes": 1088
+    },
+    {
+      "path": "licenses/react.txt",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+      "sizeBytes": 1088
+    },
+    {
+      "path": "licenses/tessdata-apache-2.0.txt",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "sizeBytes": 11357
+    },
+    {
+      "path": "licenses/tesseract-apache-2.0.txt",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
+      "sizeBytes": 11357
+    },
+    {
+      "path": "licenses/tesseract-core-apache-2.0.txt",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
+      "sizeBytes": 11357
+    },
+    {
+      "path": "licenses/topojson-client-ISC.txt",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "4c4d15b635e04e691825a76db7d33f7f2033b55669a7430011694f31e6c65999",
+      "sizeBytes": 734
+    },
+    {
+      "path": "package-lock.json",
+      "source": "original public baseline",
+      "modified": true,
+      "sha256": "6f5dcf2bc31eaa37f08031e473ef3ed897f5a5411ead330bf05f46d1cdb037b9",
+      "sizeBytes": 143060
+    },
+    {
+      "path": "package.json",
+      "source": "original public baseline",
+      "modified": true,
+      "sha256": "9380982c00e4824274c9c005d92ff5f23614d79369a4a5bf71fffd4fccc8b093",
+      "sizeBytes": 1843
+    },
+    {
+      "path": "public/food/arrowtown-autumn-1.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "a0b0b0d8cd5e0d4cc00262e1a9fff6fad30ee54a5e6fba4a7a42336a8499747b",
+      "sizeBytes": 205896
+    },
+    {
+      "path": "public/food/beijing-1.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "cb62f03cd3e248751a39fbe09236729f62e8c37c1d3736ec1645c41f2b6317cf",
+      "sizeBytes": 105126
+    },
+    {
+      "path": "public/food/beijing-2.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "d6f91fd0f7f9bd77fccbba12089d401b5bee8044ffdb17b8886af35244e4f84e",
+      "sizeBytes": 118092
+    },
+    {
+      "path": "public/food/chengdu-1.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "a12e1ef8638800bca39320133a457ded995b3a3b2ea5c472f56c4feec4ff6ecb",
+      "sizeBytes": 46882
+    },
+    {
+      "path": "public/food/chengdu-2.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "a63c9d52fcf0c63c33b19a9820f083f035cc57dc62ef7a516ba52ed50c32cdce",
+      "sizeBytes": 98694
+    },
+    {
+      "path": "public/food/edinburgh-1.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "4c12f149e0ae1e3ac1c356f2a6e0ac25fea4932671a79874be29b5309247a368",
+      "sizeBytes": 61686
+    },
+    {
+      "path": "public/food/edinburgh-2.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "65913d708521a2c9219542239f2a570d19a7ee7c9fa39ce0926e737f48fbe819",
+      "sizeBytes": 60130
+    },
+    {
+      "path": "public/food/hangzhou-1.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "b746b054a64c18e280a55096952d8cc409ab7d31b07fffc034829b8b09f4f090",
+      "sizeBytes": 38972
+    },
+    {
+      "path": "public/food/hangzhou-2.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "9adb2e535752d3feb82b03279821bcfe507bfeab5412a97b5b4e25245fef020b",
+      "sizeBytes": 43692
+    },
+    {
+      "path": "public/food/hongkong-1.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "05717249976f8271acc7a097d2df54698d51cf1f3b3c80398d93c80e0c2e422d",
+      "sizeBytes": 70864
+    },
+    {
+      "path": "public/food/hongkong-2.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "57d404592748ec5b3889827a6033a7a90d73c212cf0544ac2a1bc4a3fa74d837",
+      "sizeBytes": 70436
+    },
+    {
+      "path": "public/food/iceland-1.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "51fcf8b893980721ba2ae763e9d930094c08e9176850b6016def0d641667dbeb",
+      "sizeBytes": 11240
+    },
+    {
+      "path": "public/food/iceland-2.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "cd1645413e84f92833c26d83e552f22daf88d8001740663ac7e404d9a3bb5b7e",
+      "sizeBytes": 51682
+    },
+    {
+      "path": "public/food/jiuzhaigou-2.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "5e3d20917e5edcc88124a9e333114ce9e88d3f141e5c37c2217bfcd1cce54fe4",
+      "sizeBytes": 146750
+    },
+    {
+      "path": "public/food/kyoto-1.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "161ef2bab1d7c0d0b045e4a86e9f7c453d72a9e0c37bf9a398dde69c021bee16",
+      "sizeBytes": 136680
+    },
+    {
+      "path": "public/food/kyoto-2.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "a8ad28147c72d76f92cbd797b3a0737be3e20b1398db037a2d556fbcd5309557",
+      "sizeBytes": 19896
+    },
+    {
+      "path": "public/food/luang-prabang-1.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "2d1b53a4e7606d07537693286c6d8643ba53f083660fb56e49d33d579da5b6e8",
+      "sizeBytes": 152192
+    },
+    {
+      "path": "public/food/luang-prabang-2.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "85b881b60a82711f9b506fc0e68d7e9a1037b49f3e8cf8cf82e141a30a27ebed",
+      "sizeBytes": 119172
+    },
+    {
+      "path": "public/food/luxor-nile-history-1.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "a70c216a5c01877978bc422880cfd6ff4ed57376a45de14db1d8b07739c78f88",
+      "sizeBytes": 272058
+    },
+    {
+      "path": "public/food/luxor-nile-history-2-tameya.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "fbf8a66cd6ac3d789eaa4fe991639622a8cf41a0e933a9445e4e1ac364d42f97",
+      "sizeBytes": 90594
+    },
+    {
+      "path": "public/food/luxor-nile-history-2.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "e6ff43a24dc83c78f66fb158d13f72be163ec43dadd9532834a218ab8731a8f0",
+      "sizeBytes": 89230
+    },
+    {
+      "path": "public/food/marrakech-1.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "75e3ee30d88627f708143590b6c228055cc5db893cfc21aafd4a5ca76f16b1d6",
+      "sizeBytes": 100812
+    },
+    {
+      "path": "public/food/marrakech-2.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "e7a52d0ba867881c20bf990ce2fd7de6d18f626cdd96cd51719d6192ee40b3ab",
+      "sizeBytes": 213668
+    },
+    {
+      "path": "public/food/quanzhou-1.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "4a64c576ea4b94b167356ce84ca49cd6faff6df768df858e01a4b666b701acce",
+      "sizeBytes": 97532
+    },
+    {
+      "path": "public/food/quanzhou-2.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "d3ba2f0bd97b3ce72d450a2910e38b332787407e0a2225406ff60cd28590b0e5",
+      "sizeBytes": 183394
+    },
+    {
+      "path": "public/food/quanzhou-3.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "e544af3a580746856db9c4f1cea16b6d61f2ef08b570c335efb22e27699ba0e2",
+      "sizeBytes": 250680
+    },
+    {
+      "path": "public/food/seoul-1.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "346c8d62bd8882bdc8e8ea0d9b14814b0b5fb90fa7dfd204d528baad4cc2098e",
+      "sizeBytes": 87592
+    },
+    {
+      "path": "public/food/seoul-2.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "6eedb2502bb2e8635ecf0df89abb293c1e1127c25330d13711cfc299b7806d4d",
+      "sizeBytes": 191770
+    },
+    {
+      "path": "public/food/st-petersburg-1.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "51e8fc4cc79060978ae45cbaa30f6c2c8a498fdca3c8dc9916b9a8395fc881d6",
+      "sizeBytes": 116600
+    },
+    {
+      "path": "public/food/st-petersburg-2.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "85395af692a950585fa7b1d43d446e2f5c2b7ded3de28ba29633e5ca799453c6",
+      "sizeBytes": 68126
+    },
+    {
+      "path": "public/moments/antarctica-0.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "98f90fb77c074bbd1795d69eacf802213f0764467116bbda51b81209a45eae4a",
+      "sizeBytes": 318272
+    },
+    {
+      "path": "public/moments/antarctica-1.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "6e0dbfb2e725b1a55e0b5e71320654cfdae39cd9e85c120542245f1ff61bf5ad",
+      "sizeBytes": 218369
+    },
+    {
+      "path": "public/moments/antarctica-2.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "836391a432aff6fa73836962d4de21557103e9f86b60cd556dbb9ad541164a31",
+      "sizeBytes": 51702
+    },
+    {
+      "path": "public/moments/arrowtown-autumn-0.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "6ae04583b88796a5f1a0eaf5de8d668bfdd840c432bf012ca4c7a145202c830c",
+      "sizeBytes": 681445
+    },
+    {
+      "path": "public/moments/arrowtown-autumn-1.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "10742077d77b5a80ac3957e25e64f51567ff12052edef6ca52fb12b9da7e1733",
+      "sizeBytes": 243397
+    },
+    {
+      "path": "public/moments/arrowtown-autumn-2.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "506f9df00a8b3dd8227278a44b880f59403f389865b7a7b64abf8a4ade3e8716",
+      "sizeBytes": 70858
+    },
+    {
+      "path": "public/moments/beijing-autumn-0.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "a46306f7c44e6235bc9452927bd0dd4593f1a1840422db7d90a70fd5e3745ecd",
+      "sizeBytes": 177329
+    },
+    {
+      "path": "public/moments/beijing-autumn-1.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "4f58981027493d6d388135c95424ca766bd62519cae378951b996d8acf471074",
+      "sizeBytes": 231270
+    },
+    {
+      "path": "public/moments/beijing-autumn-2.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "6b28783a3987ce1003b2d310e6ce36fefb1db8e9e7fb54397e18d5a57182c6e1",
+      "sizeBytes": 1046485
+    },
+    {
+      "path": "public/moments/edinburgh-0.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "c184745f0db502e27358f8b58ee2f40ac99d5b24bc546765a45420dfc4fcac89",
+      "sizeBytes": 159830
+    },
+    {
+      "path": "public/moments/edinburgh-1.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "764b41c668768ba906268d702a3b6e0d1e4339890ccda4a8dab21af8600eb366",
+      "sizeBytes": 537607
+    },
+    {
+      "path": "public/moments/edinburgh-2.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "aa4d3e7ae713f60ae45bd82488e410bf1949c693df47836baa35840ab2ce15cb",
+      "sizeBytes": 97287
+    },
+    {
+      "path": "public/moments/harbin-0.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "008d52728af202d7dd5246375958a56c3c21aaa141b999b5d631bbf332c0a6e7",
+      "sizeBytes": 318205
+    },
+    {
+      "path": "public/moments/harbin-1.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "f50e0d5dd4ab2695161bcb433a71bda4a2938f03376d27c1e3dd464f54a17a3d",
+      "sizeBytes": 193172
+    },
+    {
+      "path": "public/moments/harbin-2.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "9ca06759d0b535e89db8622e44db3d03786d50ada22e76a8cd7e65525efdab28",
+      "sizeBytes": 123256
+    },
+    {
+      "path": "public/moments/iceland-0.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "cd00c2e28cfb15dbcf80536cf79c6bde37184ee8d7526f695b8d15ab3827162f",
+      "sizeBytes": 112931
+    },
+    {
+      "path": "public/moments/iceland-1.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "480edce68e4a3e683ade876f79c50827139ed33303d399b6dea589e30bb32c0f",
+      "sizeBytes": 44850
+    },
+    {
+      "path": "public/moments/iceland-2.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "c39e0dca1aa5307b369eff1fa77b0f9546a67e83b33ee9cae2bf420060e29a34",
+      "sizeBytes": 72466
+    },
+    {
+      "path": "public/moments/jiuzhaigou-lakes-0.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "604b4e5129fa3aca34835641934af80a77eaa1c6196c767589a5eae8b2d63bf2",
+      "sizeBytes": 681610
+    },
+    {
+      "path": "public/moments/jiuzhaigou-lakes-1.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "a75ff7756263b0717d1e4ceb78912eb6048a526c67b9c1d0cb492401f3f4f6ee",
+      "sizeBytes": 607267
+    },
+    {
+      "path": "public/moments/jiuzhaigou-lakes-2.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "afb67789fc170e3ffb15dc3230bfe44e5b63213a27ef8d9b0baf5c7fa91937c5",
+      "sizeBytes": 560746
+    },
+    {
+      "path": "public/moments/kyoto-autumn-0.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "637792ccc5e32262278d8474101c1c329be57a053844adce10e5153af3a5d54b",
+      "sizeBytes": 214444
+    },
+    {
+      "path": "public/moments/kyoto-autumn-1.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "c04fe295e1673e00ec054d9bb9de67e0243271e0d95428cc4bf600fe772eb204",
+      "sizeBytes": 196750
+    },
+    {
+      "path": "public/moments/kyoto-autumn-2.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "0b5f18f53f88c273540eca69cc483bab302df5ec773405915869cb724a29cff1",
+      "sizeBytes": 249831
+    },
+    {
+      "path": "public/moments/kyoto-spring-0.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "1e7d264d80d60897efeeb378875bd8fe39ff284fba41832b1628daf212b0a03f",
+      "sizeBytes": 66715
+    },
+    {
+      "path": "public/moments/kyoto-spring-1.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "774c1fb19f23a364cd90dff199a13c0e47e2604fd47b8124309e5416606e4f6e",
+      "sizeBytes": 561751
+    },
+    {
+      "path": "public/moments/kyoto-spring-2.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "83b330e5f67bbd1a6ae2fd5c1c666c388b03cdc89df4eec9ed49ef2ca83a82f9",
+      "sizeBytes": 151992
+    },
+    {
+      "path": "public/moments/marrakech-0.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "49fba524feee049a8350d27c6c5e0d7ff2f60d1f1ca3c95bb9e33dae942dddfa",
+      "sizeBytes": 48058
+    },
+    {
+      "path": "public/moments/marrakech-1.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "ea3106d6ffe408187318d1dae9c435b6fb8788c20b1525178a84a552c10d66b3",
+      "sizeBytes": 172538
+    },
+    {
+      "path": "public/moments/marrakech-2.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "d24bd90d8f9a617da1e9aac2657632a4eaed6e7cf928475af8c82df5621482d2",
+      "sizeBytes": 154236
+    },
+    {
+      "path": "public/moments/nalati-0.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "6fc41872393c7289eb62faa139d0c87c2692e65fcd90be5d7f8cd66515ca4c74",
+      "sizeBytes": 261512
+    },
+    {
+      "path": "public/moments/nalati-1.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "689d59894e658a8641a1c0b7d86af04a3e1c60e6da152137714e0f014d2eead7",
+      "sizeBytes": 71704
+    },
+    {
+      "path": "public/moments/nalati-2.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "c9e074460c30b5d11b56e7e534daa9042ad03a1bdace384f2f2a968682e76c80",
+      "sizeBytes": 266584
+    },
+    {
+      "path": "public/moments/nyingchi-0.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "6a5f733caf904a21a28d7ef9ba604ad4b87d3d7690070f3ced835a969e76adf3",
+      "sizeBytes": 903905
+    },
+    {
+      "path": "public/moments/nyingchi-1.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "7caad12ee934a752640cadd1d5db8befa09e7885a0f895c1237d09d9feb3bb62",
+      "sizeBytes": 149792
+    },
+    {
+      "path": "public/moments/nyingchi-2.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "5b4d8147ffc08fe1a14fa9327d7382b61a7f168066ed3c4effa1a28419ef9858",
+      "sizeBytes": 80752
+    },
+    {
+      "path": "public/moments/patagonia-0.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "0446d922873edb6c7557bba14841c39a139d33a3332085083012f7321ece406f",
+      "sizeBytes": 1119765
+    },
+    {
+      "path": "public/moments/patagonia-1.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "4ef1ebfbb78aafdfe93b965890ebbdeb3c8889dbaedb8a44bee2064ffee4a21d",
+      "sizeBytes": 73438
+    },
+    {
+      "path": "public/moments/patagonia-2.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "8b8aebf3becb1042d70cdae1f49fea4b4c2a6aecd34c49282c5576c87679d779",
+      "sizeBytes": 68770
+    },
+    {
+      "path": "public/moments/st-petersburg-0.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "8ef25a98d1995cd337296c952c46f7a04df47d9b8650db36e467b973647fa4a4",
+      "sizeBytes": 363253
+    },
+    {
+      "path": "public/moments/st-petersburg-1.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "4c1e6d711c5b26eec8de6d9b7eb37a6574d38377aab7954d974b881c65f9a88a",
+      "sizeBytes": 97379
+    },
+    {
+      "path": "public/moments/st-petersburg-2.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "ee54acaa65350c5e366f1d6e83efaa98ad82bbc63ba10397e78b857a0b02093f",
+      "sizeBytes": 115404
+    },
+    {
+      "path": "public/photos/amsterdam-spring.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "5d86aca0b9d06f9882b0dd63a44b382df7d0bf67be258be427b0d8cd66567571",
+      "sizeBytes": 904206
+    },
+    {
+      "path": "public/photos/antarctica.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "98f90fb77c074bbd1795d69eacf802213f0764467116bbda51b81209a45eae4a",
+      "sizeBytes": 318272
+    },
+    {
+      "path": "public/photos/arrowtown-autumn.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "6ae04583b88796a5f1a0eaf5de8d668bfdd840c432bf012ca4c7a145202c830c",
+      "sizeBytes": 681445
+    },
+    {
+      "path": "public/photos/atacama-desert.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "7e1f0320e9fc27ce705d5662ac51a584dbbbdf20fac361ff5744b5c17eebcefc",
+      "sizeBytes": 748002
+    },
+    {
+      "path": "public/photos/bali-volcano-culture.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "cd2d9079aeb8fab45fa0d6e21ab4875620862cbd62115dc09827a6d259d5ad6f",
+      "sizeBytes": 1335022
+    },
+    {
+      "path": "public/photos/banff-lake-louise.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "46645dbde7c757a3373d2752334d1364f965d1b47b1b9d797f34796510b17a6c",
+      "sizeBytes": 221793
+    },
+    {
+      "path": "public/photos/barcelona-modernism.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "252cfb9075d66ea0df05b687afdc876edb4207a9387e15356e08b68b7f3b8c28",
+      "sizeBytes": 527371
+    },
+    {
+      "path": "public/photos/beijing-autumn.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "6b28783a3987ce1003b2d310e6ce36fefb1db8e9e7fb54397e18d5a57182c6e1",
+      "sizeBytes": 1046485
+    },
+    {
+      "path": "public/photos/cape-town-summer.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "e3e059f381c23b7742e509c73fc8268a9cf8a3f9e60abb98e814ee7d46570922",
+      "sizeBytes": 484591
+    },
+    {
+      "path": "public/photos/chengdu-teahouses.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "3fa324e2e3962cb0ee95fcec1c3d79f18327208ce96ba05fb626b1799e656f82",
+      "sizeBytes": 1027843
+    },
+    {
+      "path": "public/photos/chiang-mai-cool-season.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "66f52be5a9354c1667f7e28a4831b4ed33909ffa076df1446050f783724f4edb",
+      "sizeBytes": 718548
+    },
+    {
+      "path": "public/photos/chongqing-mountain-city.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "2788fe900cce4e88a491098533c08dadd51b3a5b0ba701f0debbe8a2771ed8d2",
+      "sizeBytes": 367915
+    },
+    {
+      "path": "public/photos/cusco-sacred-valley.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "d2f1110ceff3f36a8a608de3459eae20d2c20b4cafc774e0fdccceb903f98935",
+      "sizeBytes": 1173163
+    },
+    {
+      "path": "public/photos/dali-lake-villages.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "f76a5892d45eb7f42537618f58e083bf507ee942910f1c35f474c28f4ef58f59",
+      "sizeBytes": 392308
+    },
+    {
+      "path": "public/photos/datong-grottoes.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "785f476f77374d24f0221bf459601cddfc11ccfa7040c3df8a63ddd538207315",
+      "sizeBytes": 393182
+    },
+    {
+      "path": "public/photos/dunhuang-silk-road.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "b594a5721ec3270d1878eb431780713a6e1f610d2e77343ac11c4919d29f94b0",
+      "sizeBytes": 490191
+    },
+    {
+      "path": "public/photos/edinburgh.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "764b41c668768ba906268d702a3b6e0d1e4339890ccda4a8dab21af8600eb366",
+      "sizeBytes": 537607
+    },
+    {
+      "path": "public/photos/florence-renaissance.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "a484e28bff7d86720d963e7cc18672a4c32c3bf5554893f6deb5300a1eac4bbf",
+      "sizeBytes": 424160
+    },
+    {
+      "path": "public/photos/furano-flower-fields.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "0a739eeec2cc50771d5e20f6d7277ef6ffcc973a25fbf8ac315c587ff9912798",
+      "sizeBytes": 1154920
+    },
+    {
+      "path": "public/photos/guilin-li-river.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "83d273fdae72d4b596906ba096f2ee853fb2dc3a9ad05999c57596a878ee92db",
+      "sizeBytes": 436740
+    },
+    {
+      "path": "public/photos/gyeongju-heritage.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "a5a808961daa648ecf403e92dc5cef7324c75d319ebef7dad11f446d2ba21992",
+      "sizeBytes": 361983
+    },
+    {
+      "path": "public/photos/hakone-autumn-onsen.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "acc62f9a6691d8814cf53c0ac09c3069b13f4679a47a2a7b86ab133ac768bc51",
+      "sizeBytes": 280001
+    },
+    {
+      "path": "public/photos/hangzhou-west-lake.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "7f482811ac59cda9077327f3c11f21f7eba2c2f33c18ccab59effc1e7919baff",
+      "sizeBytes": 347142
+    },
+    {
+      "path": "public/photos/harbin.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "008d52728af202d7dd5246375958a56c3c21aaa141b999b5d631bbf332c0a6e7",
+      "sizeBytes": 318205
+    },
+    {
+      "path": "public/photos/huangshan-clouds.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "5f06e4102dee18c1c04b65768e54950ef565b30dcd36622d049d44f05a790147",
+      "sizeBytes": 599710
+    },
+    {
+      "path": "public/photos/iceland.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "ee1665291ae8880a3e06823c5e6ebba2a125adcf35a89e74533e2ad5c99061a2",
+      "sizeBytes": 486391
+    },
+    {
+      "path": "public/photos/istanbul-bosphorus.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "4a8eaf1364d355b1bd23bf5d27065817a052fac643ca8110c8d8dce053917fce",
+      "sizeBytes": 582451
+    },
+    {
+      "path": "public/photos/jingdezhen-ceramics.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "b90b7912909d48c23869af1ecb4620548c449d64a7824dd0b9f4aaba2aeba4fc",
+      "sizeBytes": 926518
+    },
+    {
+      "path": "public/photos/jiuzhaigou-lakes.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "604b4e5129fa3aca34835641934af80a77eaa1c6196c767589a5eae8b2d63bf2",
+      "sizeBytes": 681610
+    },
+    {
+      "path": "public/photos/kashgar-old-town.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "c6c6d6092b03a8fd175d9b5d0a8066f39fd6b593c736fd3c66d89d663ef90e0e",
+      "sizeBytes": 668895
+    },
+    {
+      "path": "public/photos/koyasan-autumn.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "fb84d77fcb4c4e60d01dd9e6c3fcd6e2349ff4c582e92790ffd37cd48b3271c5",
+      "sizeBytes": 512101
+    },
+    {
+      "path": "public/photos/kyoto-autumn.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "037f18e529ac542736fac9d79e5da37c4e2e8004f1f547c9926b3353f8925cd8",
+      "sizeBytes": 424487
+    },
+    {
+      "path": "public/photos/kyoto-spring.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "774c1fb19f23a364cd90dff199a13c0e47e2604fd47b8124309e5416606e4f6e",
+      "sizeBytes": 561751
+    },
+    {
+      "path": "public/photos/lauterbrunnen-valley.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "e5e4a8d74e4b8083f9cda140ae09b30276fc768cb24b361265bfff80961dc723",
+      "sizeBytes": 1441219
+    },
+    {
+      "path": "public/photos/lisbon-sintra.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "c2a69cea6086e9d2bd7bbe5fc7b208481b2a8053dcaf72ec4a9c70b6a982986e",
+      "sizeBytes": 727937
+    },
+    {
+      "path": "public/photos/lofoten-light.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "783a40c9259bb4cea784048a93740b99eab13cb180bf3ce0b9c832129b85fad8",
+      "sizeBytes": 509579
+    },
+    {
+      "path": "public/photos/longji-rice-terraces.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "1c2bc715eb07e96c15d2d5761d4231e0495c503687781db064dfbe2aa6da85c6",
+      "sizeBytes": 689914
+    },
+    {
+      "path": "public/photos/luang-prabang-river.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "3f1e21b8c670347515c0ba17d2a7b27447c81d076509c0b997df73a94f354ddd",
+      "sizeBytes": 1698653
+    },
+    {
+      "path": "public/photos/luxor-nile-history.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "2f2ac044f3995553af9a81bb7da2d4ea74bb0c72da69352accbc73456296af32",
+      "sizeBytes": 503589
+    },
+    {
+      "path": "public/photos/marrakech.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "766abd2ebaff64a88b3c8afbfc03293569970376faede22dbedf8bae6b1d8dc3",
+      "sizeBytes": 702481
+    },
+    {
+      "path": "public/photos/mexico-city-culture.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "e983378a39be7e3d66e0cd382dd19f04191d9e626c0d2d76304c4126398b3814",
+      "sizeBytes": 342988
+    },
+    {
+      "path": "public/photos/nalati.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "6fc41872393c7289eb62faa139d0c87c2692e65fcd90be5d7f8cd66515ca4c74",
+      "sizeBytes": 261512
+    },
+    {
+      "path": "public/photos/new-york-autumn.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "be0c0cefc710a2990194ec53d76f95e1d043dddd38369fc7b07c5cb600c927e7",
+      "sizeBytes": 367980
+    },
+    {
+      "path": "public/photos/nyingchi.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "6a5f733caf904a21a28d7ef9ba604ad4b87d3d7690070f3ced835a969e76adf3",
+      "sizeBytes": 903905
+    },
+    {
+      "path": "public/photos/oaxaca-living-culture.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "efdab7b228f98ba306f49930684a1e37871cfcf9c5f08be071beaeaf4fc8c066",
+      "sizeBytes": 934678
+    },
+    {
+      "path": "public/photos/okavango-delta.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "e43c9af28a1157baf3232c325498dd86852abceaa4fbc62f9ff4a3b0439764c1",
+      "sizeBytes": 453478
+    },
+    {
+      "path": "public/photos/paris-art-walks.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "c3298df9b9cb2334c9e63644aa6e2a3bb76c715e689aae172bdb6c3d4b8eed94",
+      "sizeBytes": 354920
+    },
+    {
+      "path": "public/photos/patagonia.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "0446d922873edb6c7557bba14841c39a139d33a3332085083012f7321ece406f",
+      "sizeBytes": 1119765
+    },
+    {
+      "path": "public/photos/qinghai-lake-summer.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "3e7ac03e02d47eea13496408cec6690e91d50ee74497bd119c6c3db3556a7a4a",
+      "sizeBytes": 441985
+    },
+    {
+      "path": "public/photos/quanzhou-heritage.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "e44ee7d80abefd5759853bd3a01f62c6829da855ac00220622c678a65b2863b5",
+      "sizeBytes": 384063
+    },
+    {
+      "path": "public/photos/rome-ancient-city.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "6d1bc3cf37fc189bc990fa79586a3456b13a34a3637f03d2a53c0ed1e9d0852d",
+      "sizeBytes": 517788
+    },
+    {
+      "path": "public/photos/samarkand-silk-road.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "7e5856a7b50e820a922aaa9f4ff6302b21cbbaf1ff34b05ecaf198473cfb8e13",
+      "sizeBytes": 560245
+    },
+    {
+      "path": "public/photos/sanya-winter-sea.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "5a01aefbe6296a9e953a7d21383ef7f4f770724a1bbdc73bfadc87f35606b3f9",
+      "sizeBytes": 588028
+    },
+    {
+      "path": "public/photos/seoul-autumn.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "d8049a5f4840954d3a779dbbd48b4db4563f576e66bf235b560579feebc0c5bb",
+      "sizeBytes": 1124475
+    },
+    {
+      "path": "public/photos/serengeti-safari.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "9b302239100d42232a6f7118423b613db5db77829c3717e00df6d9e193e1ee8d",
+      "sizeBytes": 433981
+    },
+    {
+      "path": "public/photos/seville-andalusia.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "801adc203ba63a1d9115971dad60a6b9a3c39e79b80453fbc5a5fe3fff5d5186",
+      "sizeBytes": 271374
+    },
+    {
+      "path": "public/photos/siem-reap-angkor.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "7f567aae136d2c018e974417083b0b9ad58ea11b719715288773d571a75be060",
+      "sizeBytes": 182065
+    },
+    {
+      "path": "public/photos/sossusvlei-dunes.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "06c7ddc66ab82cd3979c690fe9794c4e86b8ac13d6935742192f3da382475e5d",
+      "sizeBytes": 287547
+    },
+    {
+      "path": "public/photos/st-petersburg.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "8ef25a98d1995cd337296c952c46f7a04df47d9b8650db36e467b973647fa4a4",
+      "sizeBytes": 363253
+    },
+    {
+      "path": "public/photos/suzhou-gardens.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "d8f490f8045a64e21e2afaa5ee3a39d97f1b3bbcb87cd0caa1bf3df272137663",
+      "sizeBytes": 1720021
+    },
+    {
+      "path": "public/photos/tasmania-summer.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "ba7433069a48af0d93a62b65f826af92cc0543b92b29e6753a80362a06c95b1a",
+      "sizeBytes": 259914
+    },
+    {
+      "path": "public/photos/thumb/amsterdam-spring.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "978a7460865c72516395eea8db663bc2fcf84e4c920380effc29ceb840ffe643",
+      "sizeBytes": 322222
+    },
+    {
+      "path": "public/photos/thumb/antarctica.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "286a5e277bd5e344702bb9d199b58fac153acab13725af33d4593ffe573e544a",
+      "sizeBytes": 56932
+    },
+    {
+      "path": "public/photos/thumb/arrowtown-autumn.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "33aeac7b8e57431f4d88b7c605852786bf618eeba795b30724214b27e41ea44f",
+      "sizeBytes": 152668
+    },
+    {
+      "path": "public/photos/thumb/atacama-desert.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "9cc3720f50b551b475e5646108d744020519b2ce975cb2b81490ae4010a3ba7c",
+      "sizeBytes": 225964
+    },
+    {
+      "path": "public/photos/thumb/bali-volcano-culture.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "eb86b50fbc437362b92bc5943b54a3b6bcff4256ea88dde7d8e667d1eaf0ad34",
+      "sizeBytes": 286060
+    },
+    {
+      "path": "public/photos/thumb/banff-lake-louise.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "eabff4be33ae96271f2931c53b6e05d2f756bd6835c5ee2c3f46c527042d4639",
+      "sizeBytes": 54282
+    },
+    {
+      "path": "public/photos/thumb/barcelona-modernism.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "9280a5786e2b5b7ed868579203682b999901dd79754b8c0f0eb37a806c9b6952",
+      "sizeBytes": 85402
+    },
+    {
+      "path": "public/photos/thumb/beijing-autumn.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "3f6ceb8d635c74bebc9f272ca362d43616035fd8efd6532eed6d5040fa8dcf63",
+      "sizeBytes": 256164
+    },
+    {
+      "path": "public/photos/thumb/cape-town-summer.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "05a54a007b8a5e82bc81257085b9f1f4c6fc9af8234c7a7fca7651789b5bf7b1",
+      "sizeBytes": 136516
+    },
+    {
+      "path": "public/photos/thumb/chengdu-teahouses.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "10271ef0eec95a51d6c266cc952483e7792aed92880c9926099748d77993125a",
+      "sizeBytes": 175314
+    },
+    {
+      "path": "public/photos/thumb/chiang-mai-cool-season.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "7fd9158636b7872b1b3039478b1bdaade77424b283b069e92426f1d0b235beb2",
+      "sizeBytes": 156834
+    },
+    {
+      "path": "public/photos/thumb/chongqing-mountain-city.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "6b5af27a281da77d7df080bff2723252ab454e7398b987b214d9fb107560d2a4",
+      "sizeBytes": 57380
+    },
+    {
+      "path": "public/photos/thumb/cusco-sacred-valley.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "cfd3e2113b67412a946a816ce587ec9ccaa7f6dac420db1ec74680fb6bc8bb75",
+      "sizeBytes": 234668
+    },
+    {
+      "path": "public/photos/thumb/dali-lake-villages.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "235f84598c5fcf29242d93e46c5ffd6f8e2254b6ae0e3bcad8ddc95ff3dbc6b8",
+      "sizeBytes": 32642
+    },
+    {
+      "path": "public/photos/thumb/datong-grottoes.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "890c4e1a4f39b7c82a469adf98f9e8e5ed9341487de2304e312e74b879960539",
+      "sizeBytes": 111834
+    },
+    {
+      "path": "public/photos/thumb/dunhuang-silk-road.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "d4977d44f406a3f129d2f384f61d8a89c6c97eb4165ab30905d10e976932c3ff",
+      "sizeBytes": 103900
+    },
+    {
+      "path": "public/photos/thumb/edinburgh.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "5123e0c95984cf607a77b1b9dd6a743322d6d0456df5c31d3f9af6bade3fd65c",
+      "sizeBytes": 73390
+    },
+    {
+      "path": "public/photos/thumb/florence-renaissance.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "a7ddae3ede7c9cf2befc6317c29fe6fad40493e9619ec18c1e8829ad1ba267b2",
+      "sizeBytes": 114516
+    },
+    {
+      "path": "public/photos/thumb/furano-flower-fields.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "80abcc541f8054912991767eabb4edd85e45bd7e011eb178b0b19f12e4287b37",
+      "sizeBytes": 328570
+    },
+    {
+      "path": "public/photos/thumb/guilin-li-river.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "cb64c3de2f0ff1702ff935f2f3275d74e7045fe45763c9d8d0edd945bf6135e5",
+      "sizeBytes": 67576
+    },
+    {
+      "path": "public/photos/thumb/gyeongju-heritage.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "f18beb4b5f298bbe3e6ed62d99d5b28164c8f9c7d7e8afe597601cce9788e7ba",
+      "sizeBytes": 101232
+    },
+    {
+      "path": "public/photos/thumb/hakone-autumn-onsen.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "3ab2813dba744de89e14a52fe3a33449092d1eeab8b2fec5cc19b61c8afd498e",
+      "sizeBytes": 68038
+    },
+    {
+      "path": "public/photos/thumb/hangzhou-west-lake.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "3af89058d944c1b97ec3a0a252c8504e2ed9a1212ac1c71335627be488209449",
+      "sizeBytes": 57494
+    },
+    {
+      "path": "public/photos/thumb/harbin.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "1ac1c8b7cf4b0baa2bc89d0972dfa979f2604356cf4911c3230d8e73b245866b",
+      "sizeBytes": 54866
+    },
+    {
+      "path": "public/photos/thumb/huangshan-clouds.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "7934d367efa2aed5ac40d7648ab6abb15858c3dabfc20cccdbc2adc501c987e4",
+      "sizeBytes": 117968
+    },
+    {
+      "path": "public/photos/thumb/iceland.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "6f8b5f38570e52302379b8923556fec7d9760a88f10ec69b258997c7b912b761",
+      "sizeBytes": 50310
+    },
+    {
+      "path": "public/photos/thumb/istanbul-bosphorus.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "09329a92cdc82c5575a15517d1fecc81cdacbd1c789de6ba6dd79ed3bb6d614e",
+      "sizeBytes": 180780
+    },
+    {
+      "path": "public/photos/thumb/jingdezhen-ceramics.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "3ea4cfebe9bdfcdabaf2429568c540673143681b0df22b69af6de40862ede700",
+      "sizeBytes": 150832
+    },
+    {
+      "path": "public/photos/thumb/jiuzhaigou-lakes.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "11e11268c9e2d398e49cccfceaab18ada6ea1d55a4c578343ae8dccf40bfb0b2",
+      "sizeBytes": 163872
+    },
+    {
+      "path": "public/photos/thumb/kashgar-old-town.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "b84bcc2e210ff0e7d067d347747a680bf9925a68d52e94d75acdc774aec7e1ae",
+      "sizeBytes": 102354
+    },
+    {
+      "path": "public/photos/thumb/koyasan-autumn.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "8549d7cbc3c7bb8cff657dc603934a7b82d82e1f30ffd6d941935b11719d369d",
+      "sizeBytes": 154324
+    },
+    {
+      "path": "public/photos/thumb/kyoto-autumn.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "54770626a653b6197c27a0dd831d1ebfe5379cf31c42648b565dea11c511d359",
+      "sizeBytes": 94808
+    },
+    {
+      "path": "public/photos/thumb/kyoto-spring.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "f693bfcd966a67b62d6bf69d345cc81ed0548422397175c436bb1b1831967a0b",
+      "sizeBytes": 121150
+    },
+    {
+      "path": "public/photos/thumb/lauterbrunnen-valley.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "2b8eb81a253954fb04695e1ba7a41419dc7051998bfc48face625f3621b3f49a",
+      "sizeBytes": 290634
+    },
+    {
+      "path": "public/photos/thumb/lisbon-sintra.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "b562f9d6275e0de110ab487084049269dad9f8c1b9b9c8db065f690be543bfeb",
+      "sizeBytes": 144208
+    },
+    {
+      "path": "public/photos/thumb/lofoten-light.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "7fb987ef71a54e40fa294ee63671f080cea2a8d466487cb8a97985bbe1c1008c",
+      "sizeBytes": 138242
+    },
+    {
+      "path": "public/photos/thumb/longji-rice-terraces.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "7a9623fc8ceffe2d32f9c01641cce1de4677c8373bb7f9c447800a557019ce10",
+      "sizeBytes": 100082
+    },
+    {
+      "path": "public/photos/thumb/luang-prabang-river.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "492c5a130278db0b12960f22b760dec102e3322c9d960c9a7a26170bbffb82ca",
+      "sizeBytes": 165604
+    },
+    {
+      "path": "public/photos/thumb/luxor-nile-history.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "3f1c49aee2b537fd29407c95c598735de7fd487436a44485e1450e7722dac819",
+      "sizeBytes": 61114
+    },
+    {
+      "path": "public/photos/thumb/marrakech.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "a27d203b3df9953236d0f46b56e95ec85647e6c4190e4d2d87b3be187a828379",
+      "sizeBytes": 154006
+    },
+    {
+      "path": "public/photos/thumb/mexico-city-culture.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "fa7b9b985762bb1b98f79b6c0dfed510672ac0d2217ad502b4e320d6d0de415b",
+      "sizeBytes": 93236
+    },
+    {
+      "path": "public/photos/thumb/nalati.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "bfe06f77434dcbfcdd2316cc183ea3731cd72d4b0e3cf5ef3f33e9c22167bd79",
+      "sizeBytes": 35934
+    },
+    {
+      "path": "public/photos/thumb/new-york-autumn.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "a5c4daba5dd674529e32be053e9d20b660f6244e7eb2dd50e598d3caa6f78db1",
+      "sizeBytes": 102190
+    },
+    {
+      "path": "public/photos/thumb/nyingchi.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "73e3cf2ac6357239867168bde93b111bb3bced65fe0a18bd8c309d630a27dd55",
+      "sizeBytes": 189502
+    },
+    {
+      "path": "public/photos/thumb/oaxaca-living-culture.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "c125d280152414444ebbf960939c2f8e300c06b0bea8211070ebc1592619e4d4",
+      "sizeBytes": 170124
+    },
+    {
+      "path": "public/photos/thumb/okavango-delta.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "dcb7c35b54ed6aa5d468fecd7c5588be7a55bc70d69761f661d80c3fc3d42ba0",
+      "sizeBytes": 134806
+    },
+    {
+      "path": "public/photos/thumb/paris-art-walks.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "98ac3f04ffb48babe1065707baf6e0238e7de575d46b67f2c9f4051292a23411",
+      "sizeBytes": 67948
+    },
+    {
+      "path": "public/photos/thumb/patagonia.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "654f9c7ed91e6ddf90d2d785e31863bb7c0c2ef43cb567a5077af21c795a4c2c",
+      "sizeBytes": 228838
+    },
+    {
+      "path": "public/photos/thumb/qinghai-lake-summer.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "3dfbd3975b096db23ca81b231bd1b2d8d15953fe4164fd469d645c7204183753",
+      "sizeBytes": 82424
+    },
+    {
+      "path": "public/photos/thumb/quanzhou-heritage.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "89a088088eba7766eeb85fe8def2e36e94a3e3471f858ad9f60e6c1c28261e16",
+      "sizeBytes": 115366
+    },
+    {
+      "path": "public/photos/thumb/rome-ancient-city.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "4ec1baa030c438964d27b03c8f1d356bb83c1dbb403872fdff42c032165c0252",
+      "sizeBytes": 112158
+    },
+    {
+      "path": "public/photos/thumb/samarkand-silk-road.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "9ebd081a8cb76e3b68ff2192afbea75a491d3d10cd37f6e3af6c308164ad1495",
+      "sizeBytes": 102016
+    },
+    {
+      "path": "public/photos/thumb/sanya-winter-sea.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "d67095c3f920b628bb1e38d2f39a3c3ca36eeeade57673593a6457b271fe8fe0",
+      "sizeBytes": 181962
+    },
+    {
+      "path": "public/photos/thumb/seoul-autumn.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "6d5baa2442f9b6465fe182bd1aa617f699a4445a0723c2919e4243df81a8b79d",
+      "sizeBytes": 272538
+    },
+    {
+      "path": "public/photos/thumb/serengeti-safari.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "84dc828e8d1c41b0e6ed27f0647e4ebef471aa9de839d7d13273ef8c959623c5",
+      "sizeBytes": 128804
+    },
+    {
+      "path": "public/photos/thumb/seville-andalusia.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "d24dba47a3eb0930e5c74d814d2b0196a7b3a8b9bc2f9e13d7623b5e91189e6e",
+      "sizeBytes": 72150
+    },
+    {
+      "path": "public/photos/thumb/siem-reap-angkor.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "e80339ac637a49acef4b58f95d65b6e9589a46f262de72725493c8e5380b5ecf",
+      "sizeBytes": 40992
+    },
+    {
+      "path": "public/photos/thumb/sossusvlei-dunes.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "4464708dffe0a6e782493e6cb42befd965656288a554b52f0a9fc32d95369c29",
+      "sizeBytes": 32646
+    },
+    {
+      "path": "public/photos/thumb/st-petersburg.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "52abeeb3d8ea6a97e056fdd81d9f7d6612aa11310850ffc5d1db2daba3435320",
+      "sizeBytes": 70212
+    },
+    {
+      "path": "public/photos/thumb/suzhou-gardens.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "40cd8ac851373dc0f5f83a9b79e5a65bab83aceab56471b3b4908c3a64d66289",
+      "sizeBytes": 388242
+    },
+    {
+      "path": "public/photos/thumb/tasmania-summer.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "8b6569920d151d469def9ff493ed1a6216d06d04ab187bf0b6081b66553308d2",
+      "sizeBytes": 54594
+    },
+    {
+      "path": "public/photos/thumb/tokyo-spring.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "ce46dcb89e6904a96189ac36893d6237e50aa64e6e1e078d962463b38a7add3f",
+      "sizeBytes": 178998
+    },
+    {
+      "path": "public/photos/thumb/tromso-northern-lights.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "af204f38e4896d3ec2eb991e62a3b921cdaeeb3955a4b4bee73b19dddfda535b",
+      "sizeBytes": 46188
+    },
+    {
+      "path": "public/photos/thumb/uluru-red-centre.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "ff2dc5a8ad7e63160f86bb5e87591ba15a1d9468e332a2f02b3825708fd7c376",
+      "sizeBytes": 34230
+    },
+    {
+      "path": "public/photos/thumb/venice-lagoon.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "5cc1693f824a07536860e79a0ec3d7e3b0d2c23d9b1b2884079e0e9f09e304a6",
+      "sizeBytes": 100150
+    },
+    {
+      "path": "public/photos/thumb/wadi-rum-desert.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "db760231f792ec0bffcbe2cb805eb8df311d70dbbdd56c6b99ad561c3cbd3c70",
+      "sizeBytes": 101772
+    },
+    {
+      "path": "public/photos/thumb/wuyuan-spring.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "9a19aed0c396e83a0e92c5fdd4b43be35c50f78c525dcf241be7eca39c925ac2",
+      "sizeBytes": 242916
+    },
+    {
+      "path": "public/photos/thumb/xian-imperial-history.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "1cb3a2384679ccaccc9f985f505d2c0ac1eb48dfe81260daa18f49d0d8313f7f",
+      "sizeBytes": 89572
+    },
+    {
+      "path": "public/photos/thumb/xishuangbanna-winter.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "c377d4d423ee3d5e5e360bcbcba13675d731a1c26271da76b2921abf859717ca",
+      "sizeBytes": 85210
+    },
+    {
+      "path": "public/photos/thumb/yogyakarta-temples.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "11adf3b178afb3f348c53777964f3b5c9d8d73bcbe9c789878fe74a6dd2d37c1",
+      "sizeBytes": 48770
+    },
+    {
+      "path": "public/photos/thumb/yosemite-spring-waterfalls.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "10e20082f9080c0d7cb24ab10a3dcd745eddc25572b5619a74d5de2403bec595",
+      "sizeBytes": 213906
+    },
+    {
+      "path": "public/photos/thumb/zanzibar-island.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "c9048a25ce410485db1fe50259620742f74d037bfa41c83527d8d9f10f0ad524",
+      "sizeBytes": 59310
+    },
+    {
+      "path": "public/photos/thumb/zhangjiajie-pillars.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "5d80133abc8fea19c3f38057ff6b67c75b52982c0c830c2a33dfbd06f3ac1f97",
+      "sizeBytes": 173896
+    },
+    {
+      "path": "public/photos/tokyo-spring.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "d688aa56942a060008bcb46ef31fbb76561677b90d3ad66463f6abb07acc850c",
+      "sizeBytes": 712809
+    },
+    {
+      "path": "public/photos/tromso-northern-lights.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "81679d66b7bfb8673af1db6795992cdabacb1462119c17fc15162f22f096ef13",
+      "sizeBytes": 253755
+    },
+    {
+      "path": "public/photos/uluru-red-centre.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "39c360e432d6ce056bd8a42decc5f9a1572069d602b32e144ef2a212ffbfc606",
+      "sizeBytes": 139054
+    },
+    {
+      "path": "public/photos/venice-lagoon.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "d7fb7fc95a73b1b837faa5dd0f6f795a7e2b0eb96a4d89fb3153bef35ddf5e96",
+      "sizeBytes": 339160
+    },
+    {
+      "path": "public/photos/wadi-rum-desert.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "f3321a3be7a801fd0b3d5921568a74027e7e28927837e7be72fb9ebd9726586e",
+      "sizeBytes": 527779
+    },
+    {
+      "path": "public/photos/wuyuan-spring.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "44e744c21b6dee794ee633c7a397dfc6bed864c51a2b315fa2fdd2bcf882fbaf",
+      "sizeBytes": 927511
+    },
+    {
+      "path": "public/photos/xian-imperial-history.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "10021385bc92bf040f22af429459a80b81ed92bb7c8fd4b140bef01ad077bfd7",
+      "sizeBytes": 340905
+    },
+    {
+      "path": "public/photos/xishuangbanna-winter.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "86b42da4ea4fcc8e0c5b5a0916fc86bdf93323345a4e7aba0950cc8fdd2aa9f7",
+      "sizeBytes": 309438
+    },
+    {
+      "path": "public/photos/yogyakarta-temples.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "cd64964bc44192c386acd9e7a0db502a2ad8907c6a23bdd794cbdf3152632b37",
+      "sizeBytes": 442841
+    },
+    {
+      "path": "public/photos/yosemite-spring-waterfalls.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "f705efdea3fc6fb37cf80dbbf9d42df0063f6964b5abbf6ee2578a89a9fb27de",
+      "sizeBytes": 1109399
+    },
+    {
+      "path": "public/photos/zanzibar-island.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "c96ff805a70ea0d01fe959f795e398a22c163b7b16ee0bd6b2ed7fc0bbaa05ce",
+      "sizeBytes": 257664
+    },
+    {
+      "path": "public/photos/zhangjiajie-pillars.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "b8d098da1f83ea6266fcb0069be20b243c4ab7b61cf35f1955abb44f51d54ce8",
+      "sizeBytes": 505860
+    },
+    {
+      "path": "public/poi/forbidden-city-representative.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "7ae4f5bd4687061e57f1f5a73b8085c73385f7854e54d93d319048ddfd77923a",
+      "sizeBytes": 427080
+    },
+    {
+      "path": "public/poi/hagia-sophia-istanbul-representative.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "4b7b13792ff758522ba004646a8ea9f1116dd51caab3369a3e5a8573a63612a2",
+      "sizeBytes": 319865
+    },
+    {
+      "path": "public/poi/hangzhou-grand-canal-gongchen-representative.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "8b720a42aebacfb743e070c225c9aee94baca1597c562565e7b8ef1a08b515e9",
+      "sizeBytes": 232431
+    },
+    {
+      "path": "public/poi/louvre-palace-museum-representative.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "4179b8c35dff41ded0e69fffaed2ba77c84eb93083c130a4a11b5a640ce02118",
+      "sizeBytes": 292234
+    },
+    {
+      "path": "public/poi/temple-of-heaven-representative.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "e89e3bbfa497fc686c1bf428e59e87a5154bf9fa59ae0fe0e6a0a34d831b8f4c",
+      "sizeBytes": 283651
+    },
+    {
+      "path": "public/poi/tower-of-london-representative.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "ce72ef386a5c2a4a7db1191df0a7ab0b97ee53173001503eae8ae1327b615296",
+      "sizeBytes": 692490
+    },
+    {
+      "path": "public/poi/valley-of-kings-representative.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "1e5c89d6f00b97f06d8acb8d7b23f29fef2cfb84cf00a532f4b0a805b3bd8f30",
+      "sizeBytes": 334987
+    },
+    {
+      "path": "public/poi/wat-xieng-thong-representative.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "7a72ff249e006444f0b59ff01c0acd1f84d5e3bb486020cb15c41c8db2dd589a",
+      "sizeBytes": 511234
+    },
+    {
+      "path": "public/points/karnak-great-hypostyle-1280.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "03dc969e55aed9b96e9558b9c58106d197c9671299360c3fbc61a2a3dff09e10",
+      "sizeBytes": 226558
+    },
+    {
+      "path": "public/points/karnak-shrine-seti-ii-1280.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "77548f6c3dfff2f79ac85626a70f61997197e288044d51e5ef7a525db90804d3",
+      "sizeBytes": 250087
+    },
+    {
+      "path": "public/points/kuang-si-falls-1280.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "ed974e93ee5fc9f7a65761d4c15d2d87604d6ed7ef708e9eeff6c9a0c0a24303",
+      "sizeBytes": 361503
+    },
+    {
+      "path": "public/points/osmanthus-species-reference.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "2f3c76c8b49c6a392db345ab170129a3ad10163bf52d0aea52a6587dd0388882",
+      "sizeBytes": 968194
+    },
+    {
+      "path": "public/points/wat-xieng-thong-tree-of-life-1280.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "9fc405e7bd3ec76b1ba23ebb6237fc55221dde9d306f0f12fd15320bf31bbe5c",
+      "sizeBytes": 555729
+    },
+    {
+      "path": "public/season/baikal-summer-shores-thumb.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "4d772983c2d97b3917f504727b1a99e96d473b53e152bd467475f010e1caf1f4",
+      "sizeBytes": 13784
+    },
+    {
+      "path": "public/season/baikal-summer-shores.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "6ac19104c6eeba25a86247c6a34a13817fc70ac7d741acc6e1c4fdde327a5912",
+      "sizeBytes": 208642
+    },
+    {
+      "path": "public/season/baikal-winter-ice-thumb.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "10d2c05e3887c0432068db162a6959d3f085587589c2aa5d37a67b8f8834edde",
+      "sizeBytes": 51986
+    },
+    {
+      "path": "public/season/baikal-winter-ice.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "cd00e679913030729bcbd359b3b6d9a764b0ad6c66870b2c3e03796109874a0b",
+      "sizeBytes": 326752
+    },
+    {
+      "path": "public/season/mohe-summer-long-days-thumb.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "3eb8659cc61f6f5ba0447c25ef38f7de5d3fe619740c059fa6164a5b975e82fe",
+      "sizeBytes": 39490
+    },
+    {
+      "path": "public/season/mohe-summer-long-days.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "4b5512f347ec7cfa184693c682c3e2ab5c86b1cd1526bece09ee088a14cea087",
+      "sizeBytes": 301372
+    },
+    {
+      "path": "public/season/mohe-winter-snow-thumb.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "ee542415c93cb93231f0ac117311d174eb0b3a5eee6d66a706828ee5668b70e9",
+      "sizeBytes": 9176
+    },
+    {
+      "path": "public/season/mohe-winter-snow.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "8df12bd7e85247d5a81403673a9f7b6d4fd9b2ffa2cd88ce74643c1fed8c48a5",
+      "sizeBytes": 278258
+    },
+    {
+      "path": "public/season/sayram-summer-meadows-thumb.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "98ba00d8a7c09944f45a4926d022b4328c753e5e706c233b39e058223657312f",
+      "sizeBytes": 18180
+    },
+    {
+      "path": "public/season/sayram-summer-meadows.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "c6f8e2066c329e88d6742563524bb88e93e0f77f16b51cf2160fdf74da7551db",
+      "sizeBytes": 337300
+    },
+    {
+      "path": "public/season/sayram-winter-ice-thumb.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "46b4ddb3d37bd8eebe36b73b1137036a9bba1ed66f60d94b3bcc559ab0481bb3",
+      "sizeBytes": 66670
+    },
+    {
+      "path": "public/season/sayram-winter-ice.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "4d8c137bbb1a0ae3cdc09e48b8b16190fa56ba47b77369bcb460208e4088fff7",
+      "sizeBytes": 345180
+    },
+    {
+      "path": "public/textures/cotton-paper-v1.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "31a362488b0ca41a315d1fd816b35fc845b5c94942c2415a6363a33b2dbea828",
+      "sizeBytes": 376918
+    },
+    {
+      "path": "public/textures/earth-clouds-2002.jpg",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "7d5a3bc6b1aace14012598f506f32bab67e40d8a3115a423f0dc61c06378c1a1",
+      "sizeBytes": 811348
+    },
+    {
+      "path": "public/textures/earth-real-v5.webp",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "405390670d45e0ddd80db0cb2492a63db62837b5c5d6db1ac8085956ea032299",
+      "sizeBytes": 692100
+    },
+    {
+      "path": "scripts/audit-ui-content.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "1b569cec0807d5ac850dae5a96157f131c26c2e9958dc694bef5e441ccdd1d2e",
+      "sizeBytes": 848
+    },
+    {
+      "path": "scripts/check-knowledge.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "a1d32c4e39b2b6438749717fa38ed093ad1ce749b4e184626fc1a6dbe2a03e45",
+      "sizeBytes": 1174
+    },
+    {
+      "path": "scripts/package-offline.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "e561ba9b91524eabe1d208d8b217c08e1e52e61ebc685d37b34183f3859501dc",
+      "sizeBytes": 3466
+    },
+    {
+      "path": "scripts/package-server.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "2e79d2696f3fb1970e256ba563681f17bce5083a06f4f874bd2d925f1966ee91",
+      "sizeBytes": 1354
+    },
+    {
+      "path": "scripts/prepare-cartography.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "cc8779d4994cb98ab5f364068e75e3a8c824a6ca5f58dcdae6692fdd4cb7c0ea",
+      "sizeBytes": 2500
+    },
+    {
+      "path": "scripts/prepare-ocr-assets.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "bba2052f87eb6a3240bc8e24923c99a64498f57edf10569f96c1bf01ea55d355",
+      "sizeBytes": 1343
+    },
+    {
+      "path": "scripts/prepare-sites-build.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "eb7900121bcff5c456b2e8cb2e8fee72afc512ca2afeb379f38c29193dff3bb0",
+      "sizeBytes": 1208
+    },
+    {
+      "path": "scripts/record-season-demo.mjs",
+      "source": "contest addition",
+      "modified": false,
+      "sha256": "49d3a3529950859f3e4df498fd68065a257c52fd8e87c629b5df6adb54dcf2d3",
+      "sizeBytes": 13772
+    },
+    {
+      "path": "scripts/refresh-analytics-entities.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "6f6404cd3040b6e5aab33580546bea72e65eb0e1b7d55706a5db4f1ca40fdff2",
+      "sizeBytes": 510
+    },
+    {
+      "path": "scripts/refresh-heritage-index.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "4c68f295089865de147d6ad4fa3aa19f7b0d33e04fa57899d1583ffab156568a",
+      "sizeBytes": 3411
+    },
+    {
+      "path": "scripts/season-browser.mjs",
+      "source": "contest addition",
+      "modified": false,
+      "sha256": "678310e48539af0744c858cf1ab884242fe6920ce2b10ac510530f57d707733d",
+      "sizeBytes": 15022
+    },
+    {
+      "path": "server/contest-server.mjs",
+      "source": "contest addition",
+      "modified": false,
+      "sha256": "f357a8b20449f72afb60c25ba8fd8dd4541e4bf8437920eb940aec854ec67db6",
+      "sizeBytes": 593
+    },
+    {
+      "path": "server/node-server.mjs",
+      "source": "original public baseline",
+      "modified": true,
+      "sha256": "ec3933448a7dbd49a54b6f6d276b40a51a1f2152e1169d8ca8d1bacfb19c1afe",
+      "sizeBytes": 3323
+    },
+    {
+      "path": "server/season-mcp.mjs",
+      "source": "contest addition",
+      "modified": false,
+      "sha256": "25446a03511a45b4a54fce61300fed74334f2e645bf3b5547a5571f729ef50ec",
+      "sizeBytes": 4310
+    },
+    {
+      "path": "src/AnalyticsPrivacy.jsx",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "746d6b34cd311f50d940eadb36af00144cb45fa87be7bb1d4398370edaae5e69",
+      "sizeBytes": 1469
+    },
+    {
+      "path": "src/App.jsx",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "49a27797ebd0e2efc083580e698cf117561476e80eac57b5d811b53a608bfd93",
+      "sizeBytes": 37
+    },
+    {
+      "path": "src/Collections.jsx",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "1f3837f56562c3fe7317f4c9d9250de67384936467ab282513f99c797316af4e",
+      "sizeBytes": 3579
+    },
+    {
+      "path": "src/CountryExplorer.jsx",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "40011e825eecc1480aeee723b81ab4d6765e2cc7a1c8aabb467cf2c8bf92e934",
+      "sizeBytes": 5495
+    },
+    {
+      "path": "src/DiscoveryCard.jsx",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "6cfdebf878c11fa11f1af90ab5cbaea3986166eb7ac0ac2ac436e4a5eb62a17e",
+      "sizeBytes": 2082
+    },
+    {
+      "path": "src/DocumentImport.jsx",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "535b0b3cc9e228bcbf33fbff17fb74da92a986ee3a44aa6a1567901fe2c07d0a",
+      "sizeBytes": 7699
+    },
+    {
+      "path": "src/Encyclopedia.jsx",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "cacd3910c51fbfbdadf71118473fa7921b3a90b7c26a8e200efccc5d7cef2f37",
+      "sizeBytes": 7156
+    },
+    {
+      "path": "src/Feedback.jsx",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "dd4b84f7fc8d73b0a43852538164d1062965916cc7d3303d1590d0f199c5fb3a",
+      "sizeBytes": 1649
+    },
+    {
+      "path": "src/Globe.jsx",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "500fc279fb4abe1712158d80f0a528f23686d2f653b50dab206d9de69d8ae5db",
+      "sizeBytes": 19356
+    },
+    {
+      "path": "src/HelpTip.jsx",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "c8a4c53720e74d83f1946125eeb3a4cfb1952d6e06094a91b4264553d29c31c2",
+      "sizeBytes": 1909
+    },
+    {
+      "path": "src/Insights.jsx",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "13602d2e10cfc3d040be8fdc7eaa4da5faa6857b6c9ba752bc539c32b28272fe",
+      "sizeBytes": 12945
+    },
+    {
+      "path": "src/Journey.jsx",
+      "source": "original public baseline",
+      "modified": true,
+      "sha256": "920085b933bbed61d16838a5608a393d0f2593b5a79c3f48194555d95ca34f81",
+      "sizeBytes": 38526
+    },
+    {
+      "path": "src/KnowledgeLibrary.jsx",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "b6092e4e9e53be76ec9b2229dd76725ff8b6f99e8405ae9dcdfce93968705e69",
+      "sizeBytes": 9865
+    },
+    {
+      "path": "src/LoadingPage.jsx",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "e818fecc0d4969dc8f04b75a0d0976daf598ed90205d49faa6b3cd13391db692",
+      "sizeBytes": 1071
+    },
+    {
+      "path": "src/MyMenu.jsx",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "e010e54dbb47a7aae671cffa47624b6e34f1916bf98f62604a30ef1a5701e2ad",
+      "sizeBytes": 2160
+    },
+    {
+      "path": "src/PersonalPlaces.jsx",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "0999db0371c3a51fe01eb4f77c912012970887c7e2798d817deda70d50d34989",
+      "sizeBytes": 8586
+    },
+    {
+      "path": "src/QuoteWorkbench.jsx",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "8520e3c95597b10ff69549d6e29dbd5836610325684ce89a64163633a71d78c4",
+      "sizeBytes": 1038
+    },
+    {
+      "path": "src/RouteRoot.jsx",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "51f1f0d8753147453bb2a3ffb1a69d34f1bfc178a8e24768fc0a0bc9565ad22b",
+      "sizeBytes": 2017
+    },
+    {
+      "path": "src/ScenicCards.jsx",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "4d5b830c60e526a9cf23144a5aeeae6dfb753b7aa45452121e94d7ed00bfb758",
+      "sizeBytes": 9652
+    },
+    {
+      "path": "src/SeasonPlanner.jsx",
+      "source": "contest addition",
+      "modified": false,
+      "sha256": "1c1fab636926ac79c80c2f8469bc2b544e701493f1b54d85319da409c2b67ea1",
+      "sizeBytes": 5889
+    },
+    {
+      "path": "src/SourceNote.jsx",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "f9a0f588f8355bb69f8cf8e2f545c9c4be5e833efedcdbeafc5de4359cec45f5",
+      "sizeBytes": 679
+    },
+    {
+      "path": "src/Timeline.jsx",
+      "source": "original public baseline",
+      "modified": true,
+      "sha256": "3680ad503d8bfbbe465588d16c43e61f058169bc305be66831378d2f26261199",
+      "sizeBytes": 5717
+    },
+    {
+      "path": "src/TravelEnrichment.jsx",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "38f56df1ea418be1f98d55e69b3398d808778e3cc692a8e85201e6525cfbe118",
+      "sizeBytes": 3800
+    },
+    {
+      "path": "src/TravelGuide.jsx",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "c98447eb335c0e7e149d1ba72bcf3921383d3a5419d18070ffacdb39bfd253a8",
+      "sizeBytes": 8813
+    },
+    {
+      "path": "src/TravelProfile.jsx",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "c7e51ac5f34921bf871b738cdb386f2dfba798a56290eeead873ef488b31af31",
+      "sizeBytes": 4080
+    },
+    {
+      "path": "src/WishlistToast.jsx",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "179b83988b2a42d4011b62136655345253d43c191840cbd330d3a989565cc8a2",
+      "sizeBytes": 1985
+    },
+    {
+      "path": "src/analytics.css",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "cc494b04dafb81228c322da533dfb5056fb0bc1a556ee5aae1b87334396e79c8",
+      "sizeBytes": 7816
+    },
+    {
+      "path": "src/analytics.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "e63d05c34a1a329a2c78c8c4723ab51a7e773092e13e0f05657ffc64e80c71a9",
+      "sizeBytes": 5819
+    },
+    {
+      "path": "src/cartography-source.json",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "2c6559ea33d9f034a491cbd1bb856d31c4f3fe0ba8889cb1dd5d62e96ef3c2b9",
+      "sizeBytes": 651
+    },
+    {
+      "path": "src/cartography.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "82ab29aec77fd41adbd845282a35430b9a616d219195a294a770464e23081ece",
+      "sizeBytes": 1573
+    },
+    {
+      "path": "src/city-labels.json",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "58c5d0760c98c64f4198b09bff2a64f6159e852d7c86bbbb86d169afcaa625f2",
+      "sizeBytes": 6168
+    },
+    {
+      "path": "src/collections.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "28bbf0d6e6d61493f6a5ff78f77d1f291e0954f09bc947b9c093c3d1dd4b3c2d",
+      "sizeBytes": 3529
+    },
+    {
+      "path": "src/continent-labels.json",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "1376e9583aedca52abc4609fb346000aff38d06194db985cbd57812190b65f09",
+      "sizeBytes": 1020
+    },
+    {
+      "path": "src/country-labels.json",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "87620d0acbe72a6cf9c5f469c6c92ac40822a0d469c13739c338f72dce8b29d6",
+      "sizeBytes": 89701
+    },
+    {
+      "path": "src/data.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "f46e3bb91a36fee366fe9947d91a4fc660ab30de09f6c94b2128f7d91072ebc3",
+      "sizeBytes": 11284
+    },
+    {
+      "path": "src/discoveries.json",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "43129ab46e8c4eeca18fcaa904a7c50472b06d6f64b7ad2cb618c193f8f40248",
+      "sizeBytes": 95363
+    },
+    {
+      "path": "src/document-import.css",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "3c342cff8fa859ef62bbcc0a976037dccab7c2a28545e96d396ebeeae583c7f7",
+      "sizeBytes": 4341
+    },
+    {
+      "path": "src/document-ocr.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "b2f862bae05d34c94e6a164c0a6d02c48d58b0f96b520dd9b681f90293ccc73e",
+      "sizeBytes": 3550
+    },
+    {
+      "path": "src/document-profile.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "d4b349d08e37b034f6ee7ff33f2c408f54190b2caf9554373da4659a20791d83",
+      "sizeBytes": 9175
+    },
+    {
+      "path": "src/editorial-v10.css",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "7fc07ffb0c2a2f8add63a9b2980585cf8d2ab3816a842d4dd5f0b16578447178",
+      "sizeBytes": 16012
+    },
+    {
+      "path": "src/editorial.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "285560795f13a22c3ba0e474f28c4ab4976eeca226de17e0b56ae81a3c23733c",
+      "sizeBytes": 4450
+    },
+    {
+      "path": "src/encyclopedia.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "e391632ceded24f6119c196b103221d1f282821f655eaca34d6225dfe132a781",
+      "sizeBytes": 2522
+    },
+    {
+      "path": "src/engine.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "ae3aa0f5b72f692fa0b3314d2ec41eb5f918cffdd9a3be6646c8d2545169d057",
+      "sizeBytes": 14533
+    },
+    {
+      "path": "src/food-catalog.json",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "4f81fcd022568474bbe81d1cb6737f560c29855f3502f713c2d7d103704531c2",
+      "sizeBytes": 39836
+    },
+    {
+      "path": "src/food-media-v10.json",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "4a110669abbcc202e10f358a328c1f901ebe04c072711c872073c1aaec110511",
+      "sizeBytes": 47451
+    },
+    {
+      "path": "src/fx-reference.json",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "db3b99578cf5b99fe5f89148a7432a6491d99919e66737cd34c00be1c44fe422",
+      "sizeBytes": 20915
+    },
+    {
+      "path": "src/globe-math.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "3baab8ca1678493dd93786fba5398ea492b58db2ccc717a06fe3420e4cb1c84a",
+      "sizeBytes": 2826
+    },
+    {
+      "path": "src/globe-renderer.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "2b893e3db67b7572c117e735f9e3813700ee78f612703f170921f001407233b2",
+      "sizeBytes": 7848
+    },
+    {
+      "path": "src/globe-software.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "b13ad612c953c57bd3daf9ecae27ee9954e61f5e6fdfa3f484998915d13c1157",
+      "sizeBytes": 2449
+    },
+    {
+      "path": "src/globe-sound.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "94ea63d7e16ae67331bc7c193e503382e296b299e88aa438e554ef4e9f8dc03e",
+      "sizeBytes": 1271
+    },
+    {
+      "path": "src/guide-catalog.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "26bc64ed384b79c20b0044e164fe61c441072cc05274f553ad3b405c2c725c9c",
+      "sizeBytes": 451
+    },
+    {
+      "path": "src/guide-scroll.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "09700738e50d838c88440b5bc13f35547184b34c7296f35a859e3fa13b0a6034",
+      "sizeBytes": 555
+    },
+    {
+      "path": "src/interest-reference.json",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "e46498e30c4e3403c9d46a06398e57a2df76dbda8dbbe5e5b2276eb53164fa3e",
+      "sizeBytes": 3525
+    },
+    {
+      "path": "src/journey-storage.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "984b5059a2bc7424534097db4e598b627d91a65c1c9d22cb7a61f3453a1676af",
+      "sizeBytes": 1418
+    },
+    {
+      "path": "src/knowledge-audit.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "93eb218d1f0501087655307068c9fc385446a9b214669a4dff6bccbcf109cd2c",
+      "sizeBytes": 5520
+    },
+    {
+      "path": "src/knowledge-index-meta.json",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "76e01c89ecade27221e0209671b5248ce718fc7b9df593ef1975bf2e2b1bd901",
+      "sizeBytes": 739
+    },
+    {
+      "path": "src/knowledge.css",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "5ca940712c7885f6f01161060a4fd12c68407501546d29c892268765b92756a3",
+      "sizeBytes": 19360
+    },
+    {
+      "path": "src/knowledge.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "1b23b4e8891ddbccbc24d8bacb33e294a3131af198a20ccaf48c0cd90e2deb92",
+      "sizeBytes": 8622
+    },
+    {
+      "path": "src/live-data.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "e94737887d600a797a577baa22c563c5de8df9fcf7056e219dd5cdbe5cbf0d3f",
+      "sizeBytes": 2292
+    },
+    {
+      "path": "src/main.jsx",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "c4f7643b803a63f7adb29ea601197f91050caa339b676d928b6532761b776563",
+      "sizeBytes": 595
+    },
+    {
+      "path": "src/map-selection.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "2eab4c19e0f3943aa381e6bba4807ee35dd2147e3026fc89f13fa1cfbed64fd7",
+      "sizeBytes": 957
+    },
+    {
+      "path": "src/media-catalog.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "cfccc3c9e72c52abb5a5fc922b82907fbb8b94a522448d07d961bd7577b2d629",
+      "sizeBytes": 198
+    },
+    {
+      "path": "src/media.json",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "95239b3f07ab5610b1eb3bb097526e48a04ec9bf921a9c009bf71e74669a6cfb",
+      "sizeBytes": 84318
+    },
+    {
+      "path": "src/my-menu.css",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "17e9e351f61905d6eefc737a539b2404c9bb2fb904c56af2ecc1defc7f55c50f",
+      "sizeBytes": 1728
+    },
+    {
+      "path": "src/navigation.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "3aebd9fdb55665ffa48970d77cf63b376d97713defb4e30bf91f4b172e57f7db",
+      "sizeBytes": 3146
+    },
+    {
+      "path": "src/official-excerpts-v10.json",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "dc4ee728ff34b401ff9a1f2f9c1fe3ab4ab71817af25f47141242514146e05da",
+      "sizeBytes": 4259
+    },
+    {
+      "path": "src/official-source-catalog.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "2b7863b4dacbd2fb86e3549cca36ce1881f8fe1af72685d56ddcf4e12266ff9a",
+      "sizeBytes": 198
+    },
+    {
+      "path": "src/official-sources.json",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "06b532da72a35e57c78c65d7b61b920bbd244c2c635f21bd814f4f55b850ece0",
+      "sizeBytes": 16753
+    },
+    {
+      "path": "src/paper-theme.css",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "97bd7205eb912ba428d07c282f47fdb6236a0e6edc4cb5c26006c4b17335dadd",
+      "sizeBytes": 1503
+    },
+    {
+      "path": "src/personal-places.css",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "698153f7799c632a503ace4a8a78e6bfa06107b177bcbd79bef765b0814ca1d7",
+      "sizeBytes": 4047
+    },
+    {
+      "path": "src/personal-places.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "62fb05dcda674e82698926cbf174b915bf6e9d96c1e96fab38b4bba49458af31",
+      "sizeBytes": 4175
+    },
+    {
+      "path": "src/poi-catalog.json",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "fc28199b7f6dbc64bfec84b27e502c1360e3696e578989fd316da6e702fe58f7",
+      "sizeBytes": 93247
+    },
+    {
+      "path": "src/poi-media.json",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "755d1ae06d3d138997dd31803fd3d4431a1e749169063e18370aed1c3ef79b82",
+      "sizeBytes": 12986
+    },
+    {
+      "path": "src/reading-catalog.json",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "9b99644f5cc75d3efde86d1b195fbccea3bfaa8059cace1ce12cfa171e2f0b8f",
+      "sizeBytes": 14006
+    },
+    {
+      "path": "src/revision-five.css",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "e434c0538ec03ed6459a6e26fcac100e30cc0c1b6adcdf8ad8bc2822bf4b58a8",
+      "sizeBytes": 25406
+    },
+    {
+      "path": "src/route-loading.css",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "ab9cf87b174fc30634fbf67d90d5dd3f6a960df7f611c408e53447a5e7291264",
+      "sizeBytes": 808
+    },
+    {
+      "path": "src/route-loading.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "690f0c8b5a3e6fe5a283b39f97f9e61a173b6740e083a6c517ef02c314e09b00",
+      "sizeBytes": 1128
+    },
+    {
+      "path": "src/season-additions-v10.json",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "d343134917c483ceb763f81ad679eb9c22164b30ba09d2ead29d10fc33513b1d",
+      "sizeBytes": 131405
+    },
+    {
+      "path": "src/season-client.mjs",
+      "source": "contest addition",
+      "modified": false,
+      "sha256": "9b463e21c3b5fdd5828151659570a02e0ccd21f0d344df178260f457d90ffa3d",
+      "sizeBytes": 2586
+    },
+    {
+      "path": "src/season-evidence.mjs",
+      "source": "contest addition",
+      "modified": false,
+      "sha256": "44afc9f7ee3b2c037f65d80ae257b0d30ff74897833175126616ba1905642108",
+      "sizeBytes": 2060
+    },
+    {
+      "path": "src/season-media-v10.json",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "f6c879d5849f6c0f97706c78c5a5bfaf22cdc7cf7b4cad240cdbc26541272c04",
+      "sizeBytes": 10574
+    },
+    {
+      "path": "src/season-planner.css",
+      "source": "contest addition",
+      "modified": false,
+      "sha256": "db082711df04aaedb6eab66055d8ed99202c69b686129094ea6d92b287decd66",
+      "sizeBytes": 2551
+    },
+    {
+      "path": "src/season-planner.mjs",
+      "source": "contest addition",
+      "modified": false,
+      "sha256": "9ab19ea32eee664fc996a240deb661c2b8a28dcd490ee124d6ba0a8178a9976f",
+      "sizeBytes": 11581
+    },
+    {
+      "path": "src/styles.css",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "24847c489087c39382bf1f7e8d31e7068670bcbd0b7523b708f8c7d8a3f0f722",
+      "sizeBytes": 72805
+    },
+    {
+      "path": "src/tooltip-layout.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "b04658cd102f29185970a06e13d8d638258b79f5d7ae783e1ae0827dc9f0b2ef",
+      "sizeBytes": 553
+    },
+    {
+      "path": "src/travel-enrichment.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "b79aed841e231509f44515489d3e643d0b22f6ec0227f364dd214621ed5bc54c",
+      "sizeBytes": 544
+    },
+    {
+      "path": "src/travel-guides.json",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "b5583f20d7d39f2299e9b704ff21a378ebefd220735782808a4153388ea30f7e",
+      "sizeBytes": 104627
+    },
+    {
+      "path": "src/usability.css",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "f35dbcca7e65ed27918fcb2e9380ececa98a507dfa10a8ef035307fe74ed8554",
+      "sizeBytes": 7432
+    },
+    {
+      "path": "src/useSeasonPlanner.js",
+      "source": "contest addition",
+      "modified": false,
+      "sha256": "fd318a04d34c48d222871d498c12334518cd76f5db4107dfe6e1bccb57fbbecd",
+      "sizeBytes": 4783
+    },
+    {
+      "path": "src/visa-catalog.json",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "072b4cdc4de66013fbce4e8514b6236b3cc823a4db72e426ad6f405a403dff1c",
+      "sizeBytes": 49768
+    },
+    {
+      "path": "src/wishlist-feedback.css",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "7082584a615aa9b48b899a47fac6e5480f0bd8a4dd5a4c08539c75d96d4a8023",
+      "sizeBytes": 1766
+    },
+    {
+      "path": "src/world.json",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "2c5dde90b87e8da7cdef804a3e29df191a25a933eca7e24c47520ad5628c034b",
+      "sizeBytes": 1067030
+    },
+    {
+      "path": "tests/analytics-client.test.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "d5718f1ea622140cdef9dcc74be8173b435ce6a1eeb0bf3210dec14cb176338a",
+      "sizeBytes": 3180
+    },
+    {
+      "path": "tests/analytics.test.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "5bd79540a99b60bed30ffd0f1a9a51113000e97f3c67ad0a00b7bcfc7673691e",
+      "sizeBytes": 7292
+    },
+    {
+      "path": "tests/collections-live.test.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "3f53029b45daa4774adfaa1a112584d9b39d2f386b3a32d50b8d13cce88aa260",
+      "sizeBytes": 2187
+    },
+    {
+      "path": "tests/directory-v10.test.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "4f74d42e4ab895086ab401f61d6b2694cac9b4f9310dd38b985bd2cafb263ce1",
+      "sizeBytes": 2316
+    },
+    {
+      "path": "tests/document-profile.test.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "d79f91978fca55936e8c4c4222856d1b89134e9c2b59d55b138941dad43989d2",
+      "sizeBytes": 7603
+    },
+    {
+      "path": "tests/globe-and-guide.test.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "a747a1855209880433e96501ef15ea0ce9fbd4aa5c44bd10a68b57634e135ade",
+      "sizeBytes": 4699
+    },
+    {
+      "path": "tests/globe-software.test.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "67b0ea7668000e87f0d18a2796ea2a8e6ca030ad1de2c679c7eb5bc4d9f7ec15",
+      "sizeBytes": 2878
+    },
+    {
+      "path": "tests/journey-storage.test.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "5bf3b8cf18565bc284de64fc5ecf56d991c1bb69c012b5c75940389ae682c8f1",
+      "sizeBytes": 785
+    },
+    {
+      "path": "tests/knowledge-audit.test.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "42da0b3a87e27856c3595ac9fecf51c41c24578cda4bb63da94571c2e287a85b",
+      "sizeBytes": 5141
+    },
+    {
+      "path": "tests/knowledge.test.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "122e9de3259fbf5cf461083bc4a7f466648cf48f4a7b62f992e67b42a86714c5",
+      "sizeBytes": 5318
+    },
+    {
+      "path": "tests/loading-page.test.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "56eabcd7b311559ea184d83f155d3ba390b3b4cd20f125c841788488eaae25eb",
+      "sizeBytes": 2260
+    },
+    {
+      "path": "tests/navigation.test.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "110f94b9daa5292ac1f00e1f7f66f87c4ec5f91d9d5d6d60527a083a473308eb",
+      "sizeBytes": 5387
+    },
+    {
+      "path": "tests/node-server.test.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "5119daddfae21098d336e454d120d217dc3430dfc317cb60472246949493208c",
+      "sizeBytes": 2553
+    },
+    {
+      "path": "tests/personal-places.test.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "357336f180679c81aa865e5e302a07a8021fc1b5f73e708d7bea5703c54a356d",
+      "sizeBytes": 3570
+    },
+    {
+      "path": "tests/reference-endpoints.test.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "e4922d5bc4fb838cf3f8c5ff856b481c08d413bb60b3b5167128f9c7c3e2bc8d",
+      "sizeBytes": 1825
+    },
+    {
+      "path": "tests/revision-five.test.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "9189954b5ad6676fe1ea35e23abc1ec99f63344a0dad84ad1a59a34bacc1de8d",
+      "sizeBytes": 6980
+    },
+    {
+      "path": "tests/route-loading.test.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "eb1deafd96df00433899e6862dae59dfd068529704a6b16753a41b05b54ee564",
+      "sizeBytes": 2631
+    },
+    {
+      "path": "tests/season-planner.test.mjs",
+      "source": "contest addition",
+      "modified": false,
+      "sha256": "c7f2ade4bcbb4aad194ce69f8a087f4b73ba0f2904f15c93fdd3241fe4324f0e",
+      "sizeBytes": 8314
+    },
+    {
+      "path": "tests/sites-worker.test.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "96af7b48906c6460c793356d7b6952f7d5026dbf5a502bec0d9297ff04201c26",
+      "sizeBytes": 2219
+    },
+    {
+      "path": "tests/startup-bundle.test.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "f5bdf0e34018e4a9f89fa7edd0cf04e2d4663979544a95d6e97d214728a8a4e4",
+      "sizeBytes": 1626
+    },
+    {
+      "path": "tests/startup-fallback.test.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "4610c9b83673c1856c623f6b69fa95d7a6ed9b6f62cd6cf1d1c15ebd085e7980",
+      "sizeBytes": 1937
+    },
+    {
+      "path": "tests/travel-engine.test.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "6b6f9a2c53f1ea58e039a2f4313e3853396a740ee66a317a4ce5e70d81990cd4",
+      "sizeBytes": 4113
+    },
+    {
+      "path": "vite.config.js",
+      "source": "original public baseline",
+      "modified": true,
+      "sha256": "762d5464416173c0094ce974d1ad086d70d4f6eea1140e6c0eb40a0556c083fb",
+      "sizeBytes": 1249
+    },
+    {
+      "path": "worker/analytics-contract.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "81c2251c8539b55dbb3725d4146853947dedd66eb8fa68239f3505918530dfe5",
+      "sizeBytes": 2848
+    },
+    {
+      "path": "worker/analytics-entities.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "6c303f2b8975e852186ffd3627553e88ef4132b7bfb3260a09d1f4005dd78ab9",
+      "sizeBytes": 22214
+    },
+    {
+      "path": "worker/analytics.mjs",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "91cd277ebe5b4776686f44540990a760508464b5f8bd5f5733ee35912100feb2",
+      "sizeBytes": 12333
+    },
+    {
+      "path": "worker/index.js",
+      "source": "original public baseline",
+      "modified": false,
+      "sha256": "6eadf0d985635e81cb9043d62fc1b2835d45daca59edcd9e1936c0e9d0b813ef",
+      "sizeBytes": 5495
+    },
+    {
+      "path": "EXPORT_ALLOWLIST.json",
+      "sha256": "35f6069323f83de32134fe3ccdf972323b7380fdf86b2c51cf2e02fec9c771e2",
+      "sizeBytes": 56809
+    }
+  ],
+  "selfHashExcluded": true
+}
